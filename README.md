@@ -1,5 +1,11 @@
-# java-learning-record
-## 📍 Java 学习路线图
+# 🌱 Java Learning Record
+
+📍 目标：持续提升后端开发能力  
+🎯 技术方向：Java / Spring Boot / MySQL / REST API
+
+---
+
+## 📌 学习路线图（进行中）
 
 ```mermaid
 graph TD;
@@ -8,5 +14,4 @@ B --> C[集合 & IO]
 C --> D[异常处理 & 多线程]
 D --> E[MySQL + JDBC]
 E --> F[Spring Boot]
-F --> G[REST API 后端项目]
-G --> H[求职落地 & 简历改造]
+F --> G[后端实践项目构建]
