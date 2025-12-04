@@ -58,6 +58,7 @@ flowchart TD
     N --> P
     O --> P
     P --> Q[End]
+```
 
 ---
 
@@ -69,5 +70,3 @@ A small console program that reads three integers from the user and prints the l
   - Comparison operators  
   - Conditional logic (`if` / `else if` / `else`)  
 - **File:** `code/basics/TheBiggestNumber.java`
-
-```
