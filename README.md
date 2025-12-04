@@ -2,8 +2,8 @@
 
 ## 📊 Current Stats
 - 🔥 **Streak:** 7 / 365 days  
-- ⏳ **Total Learning Hours:** 8.8h  
-- 📦 **Total Commits:** 11  
+- ⏳ **Total Learning Hours:** 9.3h  
+- 📦 **Total Commits:** 12  
 - 🎯 **Current Stage:** OOP Basics + Core Syntax Review    
 - 🛠 **Tech Stack Route:** Java / Spring Boot / MySQL / REST API  
 
@@ -27,26 +27,23 @@
 | Day4 | 12/01  | LeetCode - FizzBuzz (LC412)                  | ✔ | Created `LeetCode/` folder |
 | Day5 | 12/02  | Syntax Review (Relational / Logical / Ternary) | ✔ | Added `basics/Day1_Operators` |
 | Day6 | 12/03  | switch Statement (Basic + Arrow Syntax)       | ✔ | Code committed |
-| Day7 | 12/04  | switch Statement (Practical Mini Project: Healthy BMI) | ✔ | `HeimaHealthy.java` initial version completed |
+| Day7 | 12/04  | switch Statement (Practical Mini Project: Healthy BMI, Max of Three Numbers) | ✔ | `HeimaHealthy.java` initial version completed |
 
 ---
 
 ## 🧩 Featured Mini Projects
-### 1) **Healthy BMI Calculator**  
-A small but complete demo program:
 
-- **Inputs:** height, weight, age, gender, activity level  
-- **Calculations:** BMI  
-- **Outputs:** body type + recommended fitness goal (gain / lose / maintain)  
-- **Covered Syntax:**  
-  - `Scanner` input  
-  - `if-else`  
-  - `switch` (Java 14 arrow syntax)  
-  - `Math` utilities  
-  - Ternary operator  
+### 1) Healthy BMI Calculator  
+A console program that collects user health data (height, weight, age, gender, activity level), calculates BMI, determines body type, and recommends a fitness goal.  
+Practices: `Scanner`, branching logic, `switch` arrow syntax, `Math`, formatted output.  
+📂 File: `code/basics/HeimaHealthy.java`
 
-📂 Source: `basics/HeimaHealthy.java`  
-✨ Future improvements: BMR calculation, calorie recommendation, UI enhancement.
+---
+
+### 2) Max of Three Numbers  
+A small exercise that reads three integers from the user and prints the largest value.  
+Practices: user input, comparison operators, `if / else if` branching logic.  
+📂 File: `code/basics/TheBiggestNumber.java`
 
 ---
 
