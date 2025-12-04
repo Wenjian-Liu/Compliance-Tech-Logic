@@ -1,4 +1,4 @@
-# 🧩 Healthy BMI Calculator  
+### 1) 🧩 Healthy BMI Calculator  
 A beginner-friendly Java console application that gathers user health data and provides BMI classification and a simple fitness recommendation.  
 This is one of my first practical mini-projects built while learning Java fundamentals.
 
@@ -58,4 +58,16 @@ flowchart TD
     N --> P
     O --> P
     P --> Q[End]
+
+---
+
+### 2) Max of Three Numbers (Branching Logic Practice)  
+A small console program that reads three integers from the user and prints the largest one.
+
+- **What it practices:**  
+  - `Scanner` input  
+  - Comparison operators  
+  - Conditional logic (`if` / `else if` / `else`)  
+- **File:** `code/basics/TheBiggestNumber.java`
+
 ```
