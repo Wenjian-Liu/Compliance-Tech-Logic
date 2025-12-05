@@ -1,9 +1,9 @@
 🚀 Java-Learning-Record
 
 ## 📊 Current Stats
-- 🔥 **Streak:** 7 / 365 days  
-- ⏳ **Total Learning Hours:** 9.3h  
-- 📦 **Total Commits:** 12  
+- 🔥 **Streak:** 8 / 365 days  
+- ⏳ **Total Learning Hours:** 9.8h  
+- 📦 **Total Commits:** 13  
 - 🎯 **Current Stage:** OOP Basics + Core Syntax Review    
 - 🛠 **Tech Stack Route:** Java / Spring Boot / MySQL / REST API  
 
@@ -27,7 +27,8 @@
 | Day4 | 12/01  | LeetCode - FizzBuzz (LC412)                  | ✔ | Created `LeetCode/` folder |
 | Day5 | 12/02  | Syntax Review (Relational / Logical / Ternary) | ✔ | Added `basics/Day1_Operators` |
 | Day6 | 12/03  | switch Statement (Basic + Arrow Syntax)       | ✔ | Code committed |
-| Day7 | 12/04  | switch Statement (Practical Mini Project: Healthy BMI, Max of Three Numbers) | ✔ | `HeimaHealthy.java` initial version completed |
+| Day7 | 12/04  | switch Statement (Practical Mini Project: Healthy BMI, Max of Three Numbers) | ✔ | `HeimaHealthy.java` initial version completed |  
+| Day8 | 12/05  | 黑马重构01 + heimaHealthy重构小改               | ✔ | Code committed |  
 
 ---
 
