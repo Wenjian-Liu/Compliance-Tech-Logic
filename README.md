@@ -1,9 +1,9 @@
 🚀 Java-Learning-Record
 
 ## 📊 Current Stats
-- 🔥 **Streak:** 8 / 365 days  
-- ⏳ **Total Learning Hours:** 9.8h  
-- 📦 **Total Commits:** 13  
+- 🔥 **Streak:** 9 / 365 days  
+- ⏳ **Total Learning Hours:** 10.8h  
+- 📦 **Total Commits:** 14  
 - 🎯 **Current Stage:** OOP Basics + Core Syntax Review    
 - 🛠 **Tech Stack Route:** Java / Spring Boot / MySQL / REST API  
 
@@ -29,6 +29,7 @@
 | Day6 | 12/03  | switch Statement (Basic + Arrow Syntax)       | ✔ | Code committed |
 | Day7 | 12/04  | switch Statement (Practical Mini Project: Healthy BMI, Max of Three Numbers) | ✔ | `HeimaHealthy.java` initial version completed |  
 | Day8 | 12/05  | 黑马重构01 + heimaHealthy重构小改               | ✔ | Code committed |  
+| Day9 | 12/06  | LeetCode - Roman to Integer                  | ✔ | new → LeetCode/LC013 |  
 
 ---
 
