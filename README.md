@@ -1,9 +1,9 @@
 🚀 Java-Learning-Record
 
 ## 📊 Current Stats
-- 🔥 **Streak:** 10 / 365 days  
-- ⏳ **Total Learning Hours:** 11.8h  
-- 📦 **Total Commits:** 14  
+- 🔥 **Streak:** 11 / 365 days  
+- ⏳ **Total Learning Hours:** 12.6h  
+- 📦 **Total Commits:** 16  
 - 🎯 **Current Stage:** OOP Basics + Core Syntax Review    
 - 🛠 **Tech Stack Route:** Java / Spring Boot / MySQL / REST API  
 
@@ -31,6 +31,7 @@
 | Day8 | 12/05  | 黑马重构01 + heimaHealthy重构小改               | ✔ | Code committed |  
 | Day9 | 12/06  | LeetCode - Roman to Integer                  | ✔ | new → LeetCode/LC013 |  
 | Day10 | 12/07  | HeimaHealthy 重构与封装优化                  | ✔ | heimaHealthy 已提交 |  
+| Day11 | 12/08  | 健康计算器输入封装 + switch 优化             | ✔ | 使用通用 readValue 方法，精简 main 逻辑 |
 
 ---
 
