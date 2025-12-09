@@ -34,19 +34,21 @@ This repo records my daily Java learning journey, including:
 
 每一天都要有真实进步。
 
-Day	Date	Topic	Status	Notes  
-1	11/27	OOP Basics	✔	Classes & Objects  
-2	11/28	Lesson 53 Notes	✔	Committed notes  
-3	11/29	Encapsulation	✔	Getter/Setter  
-4	12/01	LeetCode LC412	✔	Created LeetCode folder  
-5	12/02	Operators Review	✔	Logical / Relational / Ternary  
-6	12/03	switch Statement	✔	Basic + Arrow Syntax  
-7	12/04	Mini Project — Healthy BMI	✔	Initial version  
-8	12/05	重构 BMI（黑马01）	✔	Improved structure  
-9	12/06	LeetCode LC013 Roman → Int	✔	Solved independently  
-10	12/07	封装优化 BMI	✔	Extracted methods  
-11	12/08	输入封装 + switch 优化	✔	readValue 方法  
-12	12/09	方法声明与调用 + 数组基础	✔	return vs void、数组初始化三种写法  
+| Day | Date | Topic | Status | Notes |  
+|------|---------|---------------------------------------------|--------|-------|  
+| Day1 | 11/27 | OOP Basics | ✔ | Classes & Objects |  
+| Day2 | 11/28 | Lesson 53 Notes | ✔ | Committed notes |  
+| Day3 | 11/29 | Encapsulation | ✔ | Getter/Setter |  
+| Day4 | 12/01 | LeetCode - FizzBuzz (LC412) | ✔ | Created LeetCode/ folder |  
+| Day5 | 12/02 | Operators Review | ✔ | Logical / Relational / Ternary |  
+| Day6 | 12/03 | switch Statement | ✔ | Basic + Arrow Syntax |  
+| Day7 | 12/04 | Mini Project — Healthy BMI | ✔ | HeimaHealthy.java initial version |  
+| Day8 | 12/05 | 重构 BMI（黑马01） | ✔ | Improved structure |  
+| Day9 | 12/06 | LeetCode - Roman to Integer (LC013) | ✔ | Solved independently |  
+| Day10 | 12/07 | 封装优化 BMI | ✔ | Extracted methods |  
+| Day11 | 12/08 | 输入封装 + switch 优化 | ✔ | readValue 方法 |  
+| Day12 | 12/09 | 方法声明与调用 + 数组基础 | ✔ | return vs void、数组初始化三种写法 |  
+
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
 
@@ -69,15 +71,16 @@ BMR / TDEE 计算
 
 🔢 2. Max of Three Numbers
 
-简单但重要的基础练习。
+简单但重要的基础练习。  
 📂 code/basics/TheBiggestNumber.java
 
 🧮 3. Roman to Integer — LeetCode LC013
 
-你人生第一道“看得懂 + 自己写对”的 LeetCode 算法题。
+第一道“看得懂 + 自己写对”的 LeetCode 算法题。  
 📂 LeetCode/LC013_RomanToInteger.java
 
 🎯 Roadmap (2024–2026)
+```mermaid
 graph TD;
 A[Java Basics] --> B[OOP: Encapsulation / Inheritance / Polymorphism]
 B --> C[Arrays & Methods]
@@ -87,6 +90,8 @@ E --> F[MySQL + JDBC]
 F --> G[Spring Boot]
 G --> H[Backend Mini Projects]
 H --> I[Deploy to Cloud & Build Portfolio]
+```
+
 
 📌 Next Steps
 
