@@ -1,79 +1,113 @@
-🚀 Java-Learning-Record
+🌟 Java Learning Journey — From Zero to Backend Engineer
+<p align="center"> <img src="https://img.shields.io/badge/Java-Progress-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/365--Day%20Challenge-In%20Progress-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/LeetCode-Started-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/GitHub-Active%20Learning-success?style=for-the-badge"> </p>
+🚀 About This Repository
 
-## 📊 Current Stats
-- 🔥 **Streak:** 11 / 365 days  
-- ⏳ **Total Learning Hours:** 12.6h  
-- 📦 **Total Commits:** 16  
-- 🎯 **Current Stage:** OOP Basics + Core Syntax Review    
-- 🛠 **Tech Stack Route:** Java / Spring Boot / MySQL / REST API  
+This repo records my daily Java learning journey, including:
 
----
+🔹 Core Java Syntax
 
-## 🗓 Weekly Goals
-- ✔ Master OOP fundamentals (Encapsulation / Inheritance / Polymorphism)  
-- ✔ Strengthen core Java syntax (switch, loops, Scanner, etc.)  
-- ✔ At least **1 LeetCode Easy** per week  
-- ✔ Keep the GitHub grass green 🌱  
+🔹 OOP (Encapsulation, Inheritance, Polymorphism)
 
----
+🔹 Methods, Arrays, Exception Handling
 
-## 📝 Progress Log
+🔹 Mini Projects
 
-| Day  | Date   | Topic                                      | Status | Notes |
-|------|---------|---------------------------------------------|--------|-------|
-| Day1 | 11/27  | OOP Basics (Classes & Objects)               | ✔ | Completed core concepts |
-| Day2 | 11/28  | Lesson 53 Notes                              | ✔ | Notes committed |
-| Day3 | 11/29  | Encapsulation + Getter/Setter                | ✔ | Code committed |
-| Day4 | 12/01  | LeetCode - FizzBuzz (LC412)                  | ✔ | Created `LeetCode/` folder |
-| Day5 | 12/02  | Syntax Review (Relational / Logical / Ternary) | ✔ | Added `basics/Day1_Operators` |
-| Day6 | 12/03  | switch Statement (Basic + Arrow Syntax)       | ✔ | Code committed |
-| Day7 | 12/04  | switch Statement (Practical Mini Project: Healthy BMI, Max of Three Numbers) | ✔ | `HeimaHealthy.java` initial version completed |  
-| Day8 | 12/05  | 黑马重构01 + heimaHealthy重构小改               | ✔ | Code committed |  
-| Day9 | 12/06  | LeetCode - Roman to Integer                  | ✔ | new → LeetCode/LC013 |  
-| Day10 | 12/07  | HeimaHealthy 重构与封装优化                  | ✔ | heimaHealthy 已提交 |  
-| Day11 | 12/08  | 健康计算器输入封装 + switch 优化             | ✔ | 使用通用 readValue 方法，精简 main 逻辑 |
+🔹 LeetCode Practice
 
----
+🔹 Gradual Progress Toward Spring Boot & Backend Development
 
-## 🧩 Featured Mini Projects
+我的目标是 365 天坚持写代码，积累扎实的后端基础，为未来的就业与技术路线做准备。
 
-### 1) Healthy BMI Calculator  
-A console program that collects user health data (height, weight, age, gender, activity level), calculates BMI, determines body type, and recommends a fitness goal.  
-Practices: `Scanner`, branching logic, `switch` arrow syntax, `Math`, formatted output.  
-📂 File: `code/basics/HeimaHealthy.java`
+📊 Learning Stats
 
----
+🔥 Current Streak: Day 12 / 365
 
-### 2) Max of Three Numbers  
-A small exercise that reads three integers from the user and prints the largest value.  
-Practices: user input, comparison operators, `if / else if` branching logic.  
-📂 File: `code/basics/TheBiggestNumber.java`
+📦 Total Commits: 18
 
----
+⏳ Total Learning Time: 14h
 
-## 🎯 Next Steps
-- [ ] OOP 三大特性  
-- [ ] 数组与方法进阶  
-- [ ] 异常处理  
-- [ ] 集合框架（重点：List / Map）  
-- [ ] 小项目 2：迷你记账系统  
-- [ ] 入门 Spring Boot（2026 Q2）
-- [ ] OOP: Encapsulation / Inheritance / Polymorphism  
-- [ ] Arrays & Methods (intermediate)  
-- [ ] Exception Handling  
-- [ ] Collections Framework (List / Map)  
-- [ ] Mini Project #2: Simple Expense Tracker  
-- [ ] Spring Boot Fundamentals (2026 Q2)
+🧭 Current Stage: Methods & Arrays
 
----
+🛠 Tech Route: Java → MySQL → Spring Boot → Backend Projects
 
-## 📌 学习路线图（进行中）
+🗓 Progress Log
 
-```mermaid
+每一天都要有真实进步。
+
+Day	Date	Topic	Status	Notes  
+1	11/27	OOP Basics	✔	Classes & Objects  
+2	11/28	Lesson 53 Notes	✔	Committed notes  
+3	11/29	Encapsulation	✔	Getter/Setter  
+4	12/01	LeetCode LC412	✔	Created LeetCode folder  
+5	12/02	Operators Review	✔	Logical / Relational / Ternary  
+6	12/03	switch Statement	✔	Basic + Arrow Syntax  
+7	12/04	Mini Project — Healthy BMI	✔	Initial version  
+8	12/05	重构 BMI（黑马01）	✔	Improved structure  
+9	12/06	LeetCode LC013 Roman → Int	✔	Solved independently  
+10	12/07	封装优化 BMI	✔	Extracted methods  
+11	12/08	输入封装 + switch 优化	✔	readValue 方法  
+12	12/09	方法声明与调用 + 数组基础	✔	return vs void、数组初始化三种写法  
+🧩 Featured Mini Projects  
+🥗 1. Healthy BMI Calculator
+
+初步实现 ➜ 重构 ➜ 封装优化  
+一个完整的控制台应用，包含：
+
+输入验证
+
+BMI 计算
+
+身体类型判断
+
+目标设定
+
+BMR / TDEE 计算
+
+营养配比建议
+
+📂 code/basics/HeimaHealthy.java
+
+🔢 2. Max of Three Numbers
+
+简单但重要的基础练习。
+📂 code/basics/TheBiggestNumber.java
+
+🧮 3. Roman to Integer — LeetCode LC013
+
+你人生第一道“看得懂 + 自己写对”的 LeetCode 算法题。
+📂 LeetCode/LC013_RomanToInteger.java
+
+🎯 Roadmap (2024–2026)
 graph TD;
-A[Java 基础] --> B[面向对象 OOP]
-B --> C[集合 & IO]
-C --> D[异常处理 & 多线程]
-D --> E[MySQL + JDBC]
-E --> F[Spring Boot]
-F --> G[后端实践项目构建]
+A[Java Basics] --> B[OOP: Encapsulation / Inheritance / Polymorphism]
+B --> C[Arrays & Methods]
+C --> D[Collections Framework]
+D --> E[Exception Handling & IO Streams]
+E --> F[MySQL + JDBC]
+F --> G[Spring Boot]
+G --> H[Backend Mini Projects]
+H --> I[Deploy to Cloud & Build Portfolio]
+
+📌 Next Steps
+
+ 完成 OOP 三大特性
+
+ 深入数组 + 方法练习
+
+ 异常处理初学
+
+ 集合框架（List、Map）
+
+ Mini Project #2：迷你记账系统
+
+ Spring Boot 入门（2026 Q2）
+
+❤️ Why This Matters
+
+每天一点点 commit，
+都是未来的 技能、作品、简历、竞争力。
+
+👩‍💻 Author
+
+Wenjian Liu — becoming a backend developer, one step a day.
+持续更新中，欢迎一起成长 💛
