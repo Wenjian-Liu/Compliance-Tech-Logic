@@ -66,7 +66,7 @@ This repo records my daily Java learning journey, including:
 | Day15 | 12/12 | 继承（extends）+ 方法复写（重写 override） | ✔ | 父类/子类结构、方法重写规则、super 的使用 |  
 | Day16 | 12/13 | 多态（Polymorphism） | ✔ | 向上转型、方法动态绑定、instanceof + 向下转型（类型转换） |  
 | Day17 | 12/14 | 面向对象：降低耦合（Travel Mode） | ✔ | 视频学习为主，理解抽象与多态降低耦合 |  
-| Day18 | 12/15 | Travel Mode | ✔ | 今日旅行，保持打卡（见 travel-log/12-15.md） |  
+| Day18 | 12/15 | 面向對象：父類構造方法(Travel Mode) | ✔ | super 调用、构造器链、父类先初始化原则 |  
 | Day19 | 12/16 | Travel Mode | ✔ | 今日旅行，保持打卡（见 travel-log/12-16.md） |  
 | Day20 | 12/17 | Travel Mode | ✔ | 今日旅行，保持打卡（见 travel-log/12-17.md） |  
 | Day21 | 12/18 | Travel Mode | ✔ | 今日旅行，保持打卡（见 travel-log/12-18.md） |  
