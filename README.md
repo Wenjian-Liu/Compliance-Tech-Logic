@@ -71,6 +71,7 @@ This repo records my daily Java learning journey, including:
 | Day20 | 12/17 | 面向對象：權限修飾符(Travel Mode) | ✔ | private / protected / public 可见性范围，强化封装与继承边界 |  
 | Day21 | 12/18 | Travel Mode | ✔ | 無代碼產出，為後續學習保持精力 |  
 | Day22 | 12/19 | Travel Mode | ✔ | 返程休息日，调整状态，准备恢复正常学习节奏 |  
+| Day23 | 12/20 | 面向对象复盘：Product 设计 | ✔ | 回顾继承、多态与构造器链，反思设计扩展性 |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
