@@ -18,26 +18,13 @@ This repo records my daily Java learning journey, including:
 
 我的目标是 365 天坚持写代码，积累扎实的后端基础，为未来的就业与技术路线做准备。
 
-📌 Travel Mode（12/14–12/19）
-
-我将于 12/15–12/19 在澳门旅行，不携带电脑。  
-为保持学习节奏与 GitHub 连续性，本周以 微学习日志（travel-log）形式 持续更新：  
-
-复习 Java 面向对象基础（构造方法 / return / 封装）  
-
-每日提交一条 travel-log 记录  
-
-旅行回程后恢复正常代码学习  
-
-日志位置：/travel-log/  
-
 📊 Learning Stats
 
-🔥 Current Streak: Day 20 / 365
+🔥 Current Streak: Day 24/ 365
 
-📦 Total Commits: 27
+📦 Total Commits: 28
 
-⏳ Total Learning Time: 19.5h
+⏳ Total Learning Time: 20.5h
 
 🧭 Current Stage: Methods & Arrays
 
@@ -72,6 +59,7 @@ This repo records my daily Java learning journey, including:
 | Day21 | 12/18 | Travel Mode | ✔ | 無代碼產出，為後續學習保持精力 |  
 | Day22 | 12/19 | Travel Mode | ✔ | 返程休息日，调整状态，准备恢复正常学习节奏 |  
 | Day23 | 12/20 | 面向对象复盘：Product 设计 | ✔ | 回顾继承、多态与构造器链，反思设计扩展性 |  
+| Day24 | 12/21 | 面向对象：工具类（Utility Class） | ✔ | static 方法复用、私有构造防实例化；角度↔弧度转换示例（未写代码） |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
