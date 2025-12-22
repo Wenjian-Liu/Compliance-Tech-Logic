@@ -20,11 +20,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 24/ 365
+🔥 Current Streak: Day 25/ 365
 
-📦 Total Commits: 28
+📦 Total Commits: 32
 
-⏳ Total Learning Time: 20.5h
+⏳ Total Learning Time: 23.5h
 
 🧭 Current Stage: Methods & Arrays
 
@@ -60,6 +60,7 @@ This repo records my daily Java learning journey, including:
 | Day22 | 12/19 | Travel Mode | ✔ | 返程休息日，调整状态，准备恢复正常学习节奏 |  
 | Day23 | 12/20 | 面向对象复盘：Product 设计 | ✔ | 回顾继承、多态与构造器链，反思设计扩展性 |  
 | Day24 | 12/21 | 面向对象：工具类（Utility Class） | ✔ | static 方法复用、私有构造防实例化；角度↔弧度转换示例（未写代码） |  
+| Day25 | 12/22 | 面向对象综合案例：用户注册/登录 | ✔ | 需求分析→模型设计→DAO→Service→UI，理解分层架构与低耦合设计 |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
