@@ -1,5 +1,7 @@
 package com.itheima.chap01;
 
+import java.util.Objects;
+
 public class Person {
     private String name;
     private int age;
@@ -26,11 +28,14 @@ public class Person {
     }
 
     @Override
-    public boolean equals(Object obj) {
-        if(!(obj instanceof Person)) {
-            return false;
-        }
-        Person p = (Person) obj;
-        return this.name.equals(p.name) && this.age == p.age;
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Person person)) return false;
+        return age == person.age && Objects.equals(name, person.name);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, age);
     }
 }
