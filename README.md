@@ -20,15 +20,15 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 28/ 365
+🔥 Current Streak: Day 29/ 365
 
-📦 Total Commits: 37
+📦 Total Commits: 38 (approx.)
 
-⏳ Total Learning Time: 25.3h
+⏳ Total Learning Time: ~25.8h
 
-🧭 Current Stage: Methods & Arrays
+🧭 Current Stage: Core OOP & Object Model (Consolidation Phase)
 
-🛠 Tech Route: Java → MySQL → Spring Boot → Backend Projects
+🛠 Tech Route: Core Java → MySQL/JDBC → Spring Boot → Backend Projects
 
 🗓 Progress Log
 
@@ -64,6 +64,7 @@ This repo records my daily Java learning journey, including:
 | Day26 | 12/23 | 用户系统案例：解耦重构 | ✔ |  extract 重构与主流程调整，梳理层间依赖与调用链 |  
 | Day27 | 12/24 | Overriding Object.equals | ✔ | Overrode `equals` method to compare `Person` objects by `name` and `age` |  
 | Day28 | 12/25 | Object.equals Consolidation | ✔ | Reinforced equals semantics: reference vs value equality, type check + cast workflow, and common pitfalls (== vs equals) |  
+| Day29 | 12/26 | Overriding hashCode with equals | ✔ | Implemented `hashCode()` consistent with `equals()` using `Objects.hash`, verified behavior via a small demo |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
@@ -95,7 +96,7 @@ BMR / TDEE 计算
 第一道“看得懂 + 自己写对”的 LeetCode 算法题。  
 📂 LeetCode/LC013_RomanToInteger.java
 
-🎯 Roadmap (2024–2026)
+🎯 Roadmap (2025–2027)
 ```mermaid
 graph TD;
 A[Java Basics] --> B[OOP: Encapsulation / Inheritance / Polymorphism]
