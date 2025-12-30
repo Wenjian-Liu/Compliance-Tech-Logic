@@ -68,7 +68,7 @@ This repo records my daily Java learning journey, including:
 | Day30 | 12/27 | Scanner 输入处理复盘 | ✔ | Rewrote Scanner demo for int/double input; fixed variable shadowing issue, clarified type boundaries, and identified misuse of instanceof for primitive input validation |  
 | Day31 | 12/28 | Overriding toString() | ✔ | Learned Object.toString() semantics, created ToStringDemo, and overrode toString() in Person for readable output |  
 | Day32 | 12/29 | Collections: Collection API + List vs Set | ✔ | Practiced core Collection methods (add/size/remove/isEmpty/clear/contains/toArray) and understood key differences between List and Set; skipped advanced toArray(String[]::new) for now |  
-| Day33 | 12/30 | Review / Off Day | ✔ | No new study today; maintained learning continuity and schedule |  
+| Day33 | 12/30 | Rest Day | ✔ | Pokémon TCG tournament participation (earned 30 points) + recharge |   
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
