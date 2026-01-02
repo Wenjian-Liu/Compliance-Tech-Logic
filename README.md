@@ -20,11 +20,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 35/ 365
+🔥 Current Streak: Day 36/ 365
 
-📦 Total Commits: 46 (approx.)
+📦 Total Commits: 47 (approx.)
 
-⏳ Total Learning Time: ~28.8h
+⏳ Total Learning Time: ~29.5h
 
 🧭 Current Stage: Core OOP & Object Model (Consolidation Phase)
 
@@ -71,6 +71,7 @@ This repo records my daily Java learning journey, including:
 | Day33 | 12/30 | Rest Day | ✔ | Pokémon TCG tournament participation (earned 30 points) + recharge |   
 | Day34 | 12/31 | Collections: 3 traversal methods | ✔ | Practiced iterating a Collection via Iterator, enhanced for-loop, and Lambda `forEach`; briefly introduced method reference `::` (not fully digested yet) |  
 | Day35 | 01/01 | ConcurrentModificationException & Traversal Differences | ✔ | Understood fail-fast behavior during iteration; compared Iterator / enhanced for / Lambda forEach; learned safe removal via Iterator.remove() |  
+| Day36 | 01/02 | List traversal & safe removal | ✔ | Implemented reverse index removal and iterator removal for Integer and String lists; debugged remove(int) vs remove(Object) issues |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
