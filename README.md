@@ -74,7 +74,7 @@ This repo records my daily Java learning journey, including:
 | Day36 | 01/02 | List traversal & safe removal | ✔ | Implemented reverse index removal and iterator removal for Integer and String lists; debugged remove(int) vs remove(Object) issues |  
 | Day37 | 01/03 | List-specific operations | ✔ | Practiced List core methods (add with index, remove by index, set, get); reinforced understanding of index-based access and return values |  
 | Day38 | 01/04 | ArrayList & LinkedList internals; LinkedList queue/stack demo | ✔ | Learned ArrayList and LinkedList internal principles; implemented and uploaded LinkedList demos using FIFO (addLast/removeFirst) and LIFO (push/pop) |  
-| Day39 | 01/05 | ArrayList movie management system (CRUD, console-based) | ✔ | Built a console-based movie management system using ArrayList; followed tutorial for overall structure, then modified and completed logic; implemented add, remove, update, query and list operations |  
+| Day39 | 01/05 | ArrayList movie management system (CRUD, console-based) | ✔ | Followed tutorial for structure; completed CRUD logic and fixed removal loop (i--) to avoid skipping; added query-by-name helper and update flow; implemented add, remove, update, query and list operations |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
@@ -105,6 +105,16 @@ BMR / TDEE 计算
 
 第一道“看得懂 + 自己写对”的 LeetCode 算法题。  
 📂 LeetCode/LC013_RomanToInteger.java
+
+🎬 4. Movie Management System (Console CRUD)
+
+ArrayList storage
+
+Add / remove / update / query / list
+
+Simple menu loop + Scanner input
+
+📂 code/collections/movie-system/
 
 🎯 Roadmap (2025–2027)
 ```mermaid
