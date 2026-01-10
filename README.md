@@ -20,11 +20,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 43/ 365
+🔥 Current Streak: Day 44/ 365
 
 📦 Total Commits: 55 (approx.)
 
-⏳ Total Learning Time: ~35.5h
+⏳ Total Learning Time: ~36h
 
 🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase)
 
@@ -79,6 +79,7 @@ This repo records my daily Java learning journey, including:
 | Day41 | 01/07 | Set internals & custom object deduplication | ✔ | Learned HashSet底层原理；implemented custom object de-duplication via overriding equals() and hashCode() in Student |  
 | Day42 | 01/08 | Rest Day | ✔ | No Java study today; paused for recovery and schedule adjustment |  
 | Day43 | 01/09 | LinkedHashSet, TreeSet & Map basics | ✔ | Learned Set variants (LinkedHashSet, TreeSet) and started Map system overview; practiced core Map methods with HashMap demo |  
+| Day44 | 01/10 | Review of Basics codebase | ✔ | Reviewed and re-understood previously written Java basics code (arrays, methods, scanner, varargs, control flow); clarified earlier misconceptions through rereading own implementations |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
