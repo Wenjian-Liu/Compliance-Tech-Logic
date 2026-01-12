@@ -22,11 +22,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 45/ 365
+🔥 Current Streak: Day 46/ 365
 
-📦 Total Commits: 55 (approx.)
+📦 Total Commits: 59 (approx.)
 
-⏳ Total Learning Time: ~36.5h
+⏳ Total Learning Time: ~37.8h
 
 🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase, focusing on data structures, traversal, and safe modification)
 
@@ -83,6 +83,7 @@ This repo records my daily Java learning journey, including:
 | Day43 | 01/09 | LinkedHashSet, TreeSet & Map basics | ✔ | Learned Set variants (LinkedHashSet, TreeSet) and started Map system overview; practiced core Map methods with HashMap demo |  
 | Day44 | 01/10 | Review of Basics codebase | ✔ | Reviewed and re-understood previously written Java basics code (arrays, methods, scanner, varargs, control flow); clarified earlier misconceptions through rereading own implementations |  
 | Day45 | 01/11 | Review of OOP codebase | ✔ | Reviewed and re-understood previously written OOP code (inheritance, constructors, override, polymorphism); reviewed inheritance and polymorphism implementations; clarified design-level questions around super calls, override necessity, and method semantics |  
+| Day46 | 01/12 | Map Traversal + Voting Mini Project | ✔ | Practiced Map traversal via keySet, entrySet, and forEach (Lambda); implemented a scenic spot voting demo with manual input, then optimized using Random; refactored to simplified counting logic and resolved syntax errors caused by misplaced braces |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
