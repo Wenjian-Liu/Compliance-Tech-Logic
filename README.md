@@ -22,11 +22,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 49/ 365
+🔥 Current Streak: Day 50/365
 
 📦 Total Commits: 63 (approx.)
 
-⏳ Total Learning Time: ~40h
+⏳ Total Learning Time: ~40.3h
 
 🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase, focusing on data structures, traversal, and safe modification)
 
@@ -87,6 +87,7 @@ This repo records my daily Java learning journey, including:
 | Day47 | 01/13 | Map Implementations & Stream API Basics | ✔ | Learned Map implementation classes and the Set–Map correspondence (conceptual); practiced Stream creation and basic pipeline usage; explored common intermediate operations through stream demos (filter, map, limit, distinct) |  
 | Day48 | 01/14 | Stream Terminal Operations | ✔ | Learned and practiced common Stream terminal operations (forEach, count, collect, toArray); completed StreamDemo4 to understand how streams produce final results and how terminal operations trigger execution |  
 | Day49 | 01/15 | Prerequisites: Varargs & Collections Utility | ✔ | Reviewed prerequisite concepts including varargs (int... args) semantics and the Collections utility class; clarified usage scenarios and common patterns as preparation for deeper Collection and Stream usage |  
+| Day50 | 01/16 | Collections review: List & Set | ✔ | Reviewed core Collection concepts with focus on List and Set; consolidated differences in structure, ordering, duplication rules, traversal methods, and typical usage scenarios |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
