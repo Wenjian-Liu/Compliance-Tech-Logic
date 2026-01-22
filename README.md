@@ -22,11 +22,11 @@ This repo records my daily Java learning journey, including:
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 55/365
+🔥 Current Streak: Day 56/365
 
-📦 Total Commits: 68 (approx.)
+📦 Total Commits: 69 (approx.)
 
-⏳ Total Learning Time: ~41.8h
+⏳ Total Learning Time: ~42.2h
 
 🧭 Current Stage: Collections Framework + Console CRUD Mini Projects (Consolidation Phase, focusing on data structures, traversal, and safe modification)  
 Emphasis on understanding Java behavior at runtime, object contracts, collection traversal safety, and basic design reasoning through console-based projects.
@@ -94,6 +94,7 @@ Emphasis on understanding Java behavior at runtime, object contracts, collection
 | Day53 | 01/19 | File API basics & directory traversal | ✔ | Learned File class basics including file creation and deletion; practiced traversing first-level directories and handling different file scenarios using File APIs |  
 | Day54 | 01/20 | Rest Day (Health Recovery) | ✔ | Took a full rest day due to illness; no Java study today, prioritized physical recovery to maintain long-term learning continuity |  
 | Day55 | 01/21 | Recursion Basics & Infinite Recursion | ✔ | Learned the concept of recursion, basic recursive structure (method self-call + termination condition), and understood causes and risks of infinite recursion through examples |  
+| Day56 | 01/22 | Recursion Practice: Factorial & Sum | ✔ | Practiced recursion by implementing factorial calculation and sum from 1 to n; reinforced recursive structure and termination conditions through hands-on coding |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
