@@ -104,6 +104,7 @@ Bridging the gap between Legal Compliance and Backend Development.
 | Day62 | 01/27 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
 | Day63 | 01/28 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
 | Day64 | 01/29 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
+| Day 65 | 01/30 | Personal Travel | ✔ | Out of town for a friend's wedding; Java study on pause |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
