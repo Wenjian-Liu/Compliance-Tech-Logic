@@ -24,11 +24,11 @@ Bridging the gap between Legal Compliance and Backend Development.
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 67/365
+🔥 Current Streak: Day 68/365
 
-📦 Total Commits: 71+
+📦 Total Commits: 72+
 
-⏳ Total Learning Time: ~43.5h
+⏳ Total Learning Time: ~43.8h
 
 🧭 Current Stage: Collections Framework & Console-based Logic
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -107,6 +107,7 @@ Bridging the gap between Legal Compliance and Backend Development.
 | Day 65 | 01/30 | Personal Travel | ✔ | Out of town for a friend's wedding; Java study on pause |  
 | Day 66 | 01/31 | Personal Travel | ✔ | Out of town for a friend's wedding; Java study on pause |  
 ​| Day 67 | 02/01 | Character Sets & Encoding | ✔ | Learned ASCII, GBK, UTF-8 and resolved common encoding issues |  
+​| Day 68 | 02/02 | Charset Encoding & Decoding | ✔ | Implemented manual encoding/decoding using String & Arrays; mastered GBK/UTF-8 conversions |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
