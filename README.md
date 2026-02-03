@@ -108,6 +108,7 @@ Bridging the gap between Legal Compliance and Backend Development.
 | Day 66 | 01/31 | Personal Travel | ✔ | Out of town for a friend's wedding; Java study on pause |  
 ​| Day 67 | 02/01 | Character Sets & Encoding | ✔ | Learned ASCII, GBK, UTF-8 and resolved common encoding issues |  
 ​| Day 68 | 02/02 | Charset Encoding & Decoding | ✔ | Implemented manual encoding/decoding using String & Arrays; mastered GBK/UTF-8 conversions |  
+​| Day 69 | 02/03 | Intro to IO Streams | ✔ | Overview of IO Stream classification: Byte vs. Character, Input vs. Output |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
