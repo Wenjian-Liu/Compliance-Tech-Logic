@@ -24,11 +24,11 @@ Bridging the gap between Legal Compliance and Backend Development.
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 73/365
+🔥 Current Streak: Day 74/365
 
 📦 Total Commits: 72+
 
-⏳ Total Learning Time: ~45.3h
+⏳ Total Learning Time: ~46.3h
 
 🧭 Current Stage: Collections Framework & Console-based Logic
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -113,6 +113,7 @@ Bridging the gap between Legal Compliance and Backend Development.
 ​| Day 71 | 02/05 | FileInputStream Fundamentals | ✔ | Learned basic usage of FileInputStream to read data from local files |  
 ​| Day 72 | 02/06 | FileOutputStream | ✔ | Mastered writing byte data to local files and appending mode |  
 ​| Day 73 | 02/07 | IO File Copy & Resource Management | ✔ | Implemented file copying and mastered resource closing (try-catch-finally / try-with-resources) |  
+​| Day 74 | 02/08 | Reflection & Annotations | ✔ | Mastered Reflection (Class/Constructor/Method/Field) and Custom Annotations |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
