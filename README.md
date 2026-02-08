@@ -188,7 +188,7 @@ H --> I[Deploy to Cloud & Build Portfolio]
 
  Mini Project #2：迷你记账系统
 
- Spring Boot 入门（2026 Q2）
+ Spring Boot Mastery & Project Launch（2026 Q2）
 
 ❤️ Why This Matters
 
