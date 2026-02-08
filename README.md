@@ -40,8 +40,8 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 每一天都要有真实进步。
 
-| Day | Date | Topic | Status | Notes |  
-|------|---------|---------------------------------------------|--------|-------|  
+| Day | Date | Topic | Status | Notes | 
+|:---:|:---:|---|:---:|---|
 | Day1 | 11/27 | OOP Basics | ✔ | Classes & Objects |  
 | Day2 | 11/28 | Lesson 53 Notes | ✔ | Committed notes |  
 | Day3 | 11/29 | Encapsulation | ✔ | Getter/Setter |  
@@ -103,8 +103,6 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day60 | 01/25 | Rest Day | ✔ | No Java study today due to personal schedule; learning log kept up to date |  
 | Day61 | 01/26 | Method Recursion & File IO | ✔ | Finished Monkey Peach problem and recursive file search (qq.exe) |  
 | Day62 | 01/27 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
-| Day | Date | Topic | Status | Notes |
-|:---:|:---:|---|:---:|---|
 | Day63 | 01/28 | Rest Day | ✔ | Recovering from illness (Flu) |
 | Day64 | 01/29 | Rest Day | ✔ | Prioritized health over coding |
 | Day65 | 01/30 | Friend's Wedding | ✔ | Out of town for wedding ceremony |
