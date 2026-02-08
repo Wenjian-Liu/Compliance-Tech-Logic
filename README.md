@@ -114,7 +114,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 ​| Day 71 | 02/05 | FileInputStream Fundamentals | ✔ | Learned basic usage of FileInputStream to read data from local files |  
 ​| Day 72 | 02/06 | FileOutputStream | ✔ | Mastered writing byte data to local files and appending mode |  
 ​| Day 73 | 02/07 | IO File Copy & Resource Management | ✔ | Implemented file copying and mastered resource closing (try-catch-finally / try-with-resources) |  
-​| Day 74 | 02/08 | Reflection & Annotations | ✔ | Mastered Reflection (Class/Constructor/Method/Field) and Custom Annotations |  
+​| Day 74 | 02/08 | Reflection & Annotations | ✔ | Mastered Reflection & Annotations: Understood how to leverage 'Reflection' as an automated auditing tool to scan sensitive fields, and 'Annotations' as metadata tags for data masking compliance. |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
