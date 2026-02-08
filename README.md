@@ -103,18 +103,20 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day60 | 01/25 | Rest Day | ✔ | No Java study today due to personal schedule; learning log kept up to date |  
 | Day61 | 01/26 | Method Recursion & File IO | ✔ | Finished Monkey Peach problem and recursive file search (qq.exe) |  
 | Day62 | 01/27 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
-| Day63 | 01/28 | Rest Day | ✔ | Recovering from illness |  
-| Day64 | 01/29 | Rest Day | ✔ | Recovering from illness |  
-| Day65 | 01/30 | Personal Travel | ✔ | Friend's Wedding |  
-| Day66 | 01/31 | Personal Travel | ✔ | Friend's Wedding |  
-| Day67 | 02/01 | Character Sets & Encoding | ✔ | ASCII, GBK, UTF-8 basics |  
-| Day68 | 02/02 | Charset Encoding & Decoding | ✔ | Manual conversion in Java |  
-| Day69 | 02/03 | Intro to IO Streams | ✔ | Byte vs. Character streams |  
-| Day70 | 02/04 | Rest Day | ✔ | Health recovery |  
-| Day71 | 02/05 | FileInputStream Fundamentals | ✔ | Reading local files |  
-| Day72 | 02/06 | FileOutputStream | ✔ | Writing & Appending mode |  
-| Day73 | 02/07 | IO File Copy & Resource Mgmt | ✔ | Try-with-resources logic |  
-| Day74 | 02/08 | Reflection & Annotations | ✔ | Reflection API & Data Tagging |  
+| Day | Date | Topic | Status | Notes |
+|:---:|:---:|---|:---:|---|
+| Day63 | 01/28 | Rest Day | ✔ | Recovering from illness (Flu) |
+| Day64 | 01/29 | Rest Day | ✔ | Prioritized health over coding |
+| Day65 | 01/30 | Friend's Wedding | ✔ | Out of town for wedding ceremony |
+| Day66 | 01/31 | Friend's Wedding | ✔ | Traveling back to Shanghai |
+| Day67 | 02/01 | Character Sets & Encoding | ✔ | Mastered ASCII, GBK, UTF-8 logic |
+| Day68 | 02/02 | Charset Encoding & Decoding | ✔ | Handled manual conversion in Java |
+| Day69 | 02/03 | Intro to IO Streams | ✔ | Classification: Byte vs. Character |
+| Day70 | 02/04 | Rest Day | ✔ | Health recovery & energy saving |
+| Day71 | 02/05 | FileInputStream | ✔ | Reading local data streams |
+| Day72 | 02/06 | FileOutputStream | ✔ | Writing data & Appending mode |
+| Day73 | 02/07 | IO Copy & Resource Mgmt | ✔ | Mastery of try-with-resources |
+| Day74 | 02/08 | Reflection & Annotations | ✔ | Reflection for Audit; Annotations for Masking |
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
