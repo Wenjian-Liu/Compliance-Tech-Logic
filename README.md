@@ -18,7 +18,8 @@ This repo records my daily Java learning journey, including:
 
 🔹 Gradual Progress Toward Spring Boot & Backend Development
 
-Bridging the gap between Legal Compliance and Backend Development.
+Bridging the gap between Legal Compliance and Backend Development.  
+Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Architecture (e.g., Automated Data Deletion via Reflection & Annotations).
 
 我的目标是 365 天坚持写代码，积累扎实的后端基础，为未来的就业与技术路线做准备。
 
