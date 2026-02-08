@@ -103,18 +103,18 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day60 | 01/25 | Rest Day | ✔ | No Java study today due to personal schedule; learning log kept up to date |  
 | Day61 | 01/26 | Method Recursion & File IO | ✔ | Finished Monkey Peach problem and recursive file search (qq.exe) |  
 | Day62 | 01/27 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
-| Day63 | 01/28 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
-| Day64 | 01/29 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
-| Day 65 | 01/30 | Personal Travel | ✔ | Out of town for a friend's wedding; Java study on pause |  
-| Day 66 | 01/31 | Personal Travel | ✔ | Out of town for a friend's wedding; Java study on pause |  
-​| Day 67 | 02/01 | Character Sets & Encoding | ✔ | Learned ASCII, GBK, UTF-8 and resolved common encoding issues |  
-​| Day 68 | 02/02 | Charset Encoding & Decoding | ✔ | Implemented manual encoding/decoding using String & Arrays; mastered GBK/UTF-8 conversions |  
-​| Day 69 | 02/03 | Intro to IO Streams | ✔ | Overview of IO Stream classification: Byte vs. Character, Input vs. Output |  
-| Day 70 | 02/04 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
-​| Day 71 | 02/05 | FileInputStream Fundamentals | ✔ | Learned basic usage of FileInputStream to read data from local files |  
-​| Day 72 | 02/06 | FileOutputStream | ✔ | Mastered writing byte data to local files and appending mode |  
-​| Day 73 | 02/07 | IO File Copy & Resource Management | ✔ | Implemented file copying and mastered resource closing (try-catch-finally / try-with-resources) |  
-​| Day 74 | 02/08 | Reflection & Annotations | ✔ | Mastered Reflection & Annotations: Understood how to leverage 'Reflection' as an automated auditing tool to scan sensitive fields, and 'Annotations' as metadata tags for data masking compliance. |  
+| Day63 | 01/28 | Rest Day | ✔ | Recovering from illness |  
+| Day64 | 01/29 | Rest Day | ✔ | Recovering from illness |  
+| Day65 | 01/30 | Personal Travel | ✔ | Friend's Wedding |  
+| Day66 | 01/31 | Personal Travel | ✔ | Friend's Wedding |  
+| Day67 | 02/01 | Character Sets & Encoding | ✔ | ASCII, GBK, UTF-8 basics |  
+| Day68 | 02/02 | Charset Encoding & Decoding | ✔ | Manual conversion in Java |  
+| Day69 | 02/03 | Intro to IO Streams | ✔ | Byte vs. Character streams |  
+| Day70 | 02/04 | Rest Day | ✔ | Health recovery |  
+| Day71 | 02/05 | FileInputStream Fundamentals | ✔ | Reading local files |  
+| Day72 | 02/06 | FileOutputStream | ✔ | Writing & Appending mode |  
+| Day73 | 02/07 | IO File Copy & Resource Mgmt | ✔ | Try-with-resources logic |  
+| Day74 | 02/08 | Reflection & Annotations | ✔ | Reflection API & Data Tagging |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
