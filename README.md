@@ -116,7 +116,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day72 | 02/06 | FileOutputStream | ✔ | Writing data & Appending mode |
 | Day73 | 02/07 | IO Copy & Resource Mgmt | ✔ | Mastery of try-with-resources |
 | Day74 | 02/08 | Reflection & Annotations | ✔ | Reflection for Audit; Annotations for Masking |  
-​| Day 75 | 02/09 | Dynamic Proxy | ✔ | Implemented Proxy pattern using Star/Agent example; understood InvocationHandler |  
+| Day 75 | 02/09 | Dynamic Proxy | ✔ | Implemented Proxy pattern; understood InvocationHandler |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
