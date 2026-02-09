@@ -18,18 +18,19 @@ This repo records my daily Java learning journey, including:
 
 🔹 Gradual Progress Toward Spring Boot & Backend Development
 
-Bridging the gap between Legal Compliance and Backend Development.  
+Bridging the gap between Legal Compliance and Backend Development. 
+
 Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Architecture (e.g., Automated Data Deletion via Reflection & Annotations).
 
 我的目标是 365 天坚持写代码，积累扎实的后端基础，为未来的就业与技术路线做准备。
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 74/365
+🔥 Current Streak: Day 75/365
 
 📦 Total Commits: 72+
 
-⏳ Total Learning Time: ~46.3h
+⏳ Total Learning Time: ~47h
 
 🧭 Current Stage: Collections Framework & Console-based Logic
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -115,6 +116,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day72 | 02/06 | FileOutputStream | ✔ | Writing data & Appending mode |
 | Day73 | 02/07 | IO Copy & Resource Mgmt | ✔ | Mastery of try-with-resources |
 | Day74 | 02/08 | Reflection & Annotations | ✔ | Reflection for Audit; Annotations for Masking |
+​| Day 75 | 02/09 | Dynamic Proxy | ✔ | Implemented Proxy pattern using Star/Agent example; understood InvocationHandler |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
