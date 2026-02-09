@@ -13,7 +13,7 @@ Bridging the gap between **Legal Regulatory requirements (GDPR/PIPL)** and **Sys
 During my tenure at **KKCN**, I managed complex cross-border compliance projects. This repository explores how Java backend logic can automate these manual tasks:
 
 ### 1. Financial Proxy Logic (Simulated)
-- **Problem:** Manual audit of 200k+ RMB contracts, multi-currency payments (JPY, USD, PLN), and tax liability (Withholding Tax).
+- **Problem:** Manual audit of 200k+ RMB contracts, multi-currency payments (JPY, USD), and tax liability (Withholding Tax).
 - **Solution:** Implementing **Dynamic Proxies** to intercept transaction requests, automatically validating "Per-Capita" limits and "Tax Responsibility" flags before final OA approval.
 
 ### 2. Data Privacy & Cross-border Transfer
