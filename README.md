@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/German-PGG%20%2F%20Level%208-red?style=for-the-badge&logo=germany&logoColor=white">
+  <img src="https://img.shields.io/badge/Java%20Progress-OOP%20%26%20Proxy-blue?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Focus-IT%20Compliance-gold?style=for-the-badge">
+</p>
+
+---
 🌟 Java Learning Journey — Building Solid Backend Foundations 
 <p align="center"> <img src="https://img.shields.io/badge/Java-Progress-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/365--Day%20Challenge-In%20Progress-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/LeetCode-Started-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/GitHub-Active%20Learning-success?style=for-the-badge"> </p>
 🚀 About This Repository
