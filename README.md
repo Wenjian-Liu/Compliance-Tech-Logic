@@ -50,20 +50,16 @@ Bridging the gap between Legal Compliance and Backend Development.
 
 Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Architecture (e.g., Automated Data Deletion via Reflection & Annotations).
 
-我的目标是 365 天坚持写代码，积累扎实的后端基础，为未来的就业与技术路线做准备。
-
 📊 Learning Stats
 
-🔥 Current Streak: Day 75/365
+🔥 Current Streak: Day 76/365
 
 📦 Total Commits: 72+
 
-⏳ Total Learning Time: ~47h
+⏳ Total Learning Time: ~47.5h
 
 🧭 Current Stage: Collections Framework & Console-based Logic
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
-
-🛠 Tech Route: Core Java → MySQL/JDBC → Spring Boot → Backend Projects
 
 🗓 Progress Log
 
@@ -145,6 +141,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day73 | 02/07 | IO Copy & Resource Mgmt | ✔ | Mastery of try-with-resources |
 | Day74 | 02/08 | Reflection & Annotations | ✔ | Reflection for Audit; Annotations for Masking |  
 | Day 75 | 02/09 | Dynamic Proxy | ✔ | Implemented Proxy pattern; understood InvocationHandler |  
+| Day76 | 02/10 | Advanced Dynamic Proxy & Generics | ✔ | Applied Generics to ProxyUtil for universal method intercepting; felt the beauty of code abstraction |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
@@ -227,5 +224,5 @@ H --> I[Deploy to Cloud & Build Portfolio]
 
 👩‍💻 Author
 
-Wenjian Liu — building backend foundations, one step a day.
+Wenjian Liu — one step a day.
 持续更新中，欢迎一起成长 💛
