@@ -198,7 +198,7 @@ graph TD;
 A[Java Basics] --> B[OOP: Encapsulation / Inheritance / Polymorphism]
 B --> C[Arrays & Methods]
 C --> D[Collections Framework]
-D --> E[Exception Handling & IO ⭐StreamsCore Compliance Layer]
+D --> E[Exception Handling & IO Streams  ⭐Core Compliance Layer]
 E --> F[MySQL + JDBC]
 F --> G[Spring Boot]
 G --> H[Backend Mini Projects]
