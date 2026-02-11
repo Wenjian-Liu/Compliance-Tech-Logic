@@ -52,11 +52,11 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 76/365
+🔥 Current Streak: Day 77/365
 
 📦 Total Commits: 72+
 
-⏳ Total Learning Time: ~47.5h
+⏳ Total Learning Time: ~49.5h
 
 🧭 Current Stage: Collections Framework & Console-based Logic
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -142,6 +142,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day74 | 02/08 | Reflection & Annotations | ✔ | Reflection for Audit; Annotations for Masking |  
 | Day 75 | 02/09 | Dynamic Proxy | ✔ | Implemented Proxy pattern; understood InvocationHandler |  
 | Day76 | 02/10 | Advanced Dynamic Proxy & Generics | ✔ | Applied Generics to ProxyUtil for universal method intercepting; felt the beauty of code abstraction |  
+| Day 77 | 02/11 | Exception Handling & Enums | ✔ | Mastered Custom Exceptions and Enums for compliance logic implementation |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
