@@ -7,12 +7,12 @@
 </p>
 
 ## 🚀 Why Java for Compliance?
-Bridging the gap between **Legal Regulatory requirements (GDPR/PIPL)** and **Systemic Automation**.
+Bridging the gap between **Legal Regulatory requirements (PIPL/GDPR Transfer Impact Assessment Logic)** and **Systemic Automation**.
 
 ## 🛡️ Business Case Study: Automated Financial & Data Audit
 During my tenure at **KKCN**, I managed complex cross-border compliance projects. This repository explores how Java backend logic can automate these manual tasks:
 
-### 1. Financial Proxy Logic (Simulated)
+### 1. Financial Proxy Logic (Relevant to TSCO/AML Compliance)(Simulated)
 - **Problem:** Manual audit of 200k+ RMB contracts, multi-currency payments (JPY, USD), and tax liability (Withholding Tax).
 - **Solution:** Implementing **Dynamic Proxies** to intercept transaction requests, automatically validating "Per-Capita" limits and "Tax Responsibility" flags before final OA approval.
 
@@ -58,7 +58,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 ⏳ Total Learning Time: ~49.5h
 
-🧭 Current Stage: Collections Framework & Console-based Logic
+🧭 Current Stage: Advanced Logic: Exception Handling & Enums for Automated Auditing
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
 
 🗓 Progress Log
@@ -198,7 +198,7 @@ graph TD;
 A[Java Basics] --> B[OOP: Encapsulation / Inheritance / Polymorphism]
 B --> C[Arrays & Methods]
 C --> D[Collections Framework]
-D --> E[Exception Handling & IO Streams]
+D --> E[Exception Handling & IO ⭐StreamsCore Compliance Layer]
 E --> F[MySQL + JDBC]
 F --> G[Spring Boot]
 G --> H[Backend Mini Projects]
@@ -219,9 +219,7 @@ H --> I[Deploy to Cloud & Build Portfolio]
  Spring Boot Mastery & Project Launch（2026 Q2）
 
 ❤️ Why This Matters
-
-每天一点点 commit，
-都是未来的 技能、作品、简历、竞争力。
+In the era of digital compliance, code is the new law. Every commit here translates legal constraints into systemic certainties.
 
 👩‍💻 Author
 
