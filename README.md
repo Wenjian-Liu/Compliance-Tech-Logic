@@ -52,11 +52,11 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 77/365
+🔥 Current Streak: Day 78/365
 
 📦 Total Commits: 72+
 
-⏳ Total Learning Time: ~49.5h
+⏳ Total Learning Time: ~49.8h
 
 🧭 Current Stage: Advanced Logic: Exception Handling & Enums for Automated Auditing
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -143,6 +143,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day 75 | 02/09 | Dynamic Proxy | ✔ | Implemented Proxy pattern; understood InvocationHandler |  
 | Day76 | 02/10 | Advanced Dynamic Proxy & Generics | ✔ | Applied Generics to ProxyUtil for universal method intercepting; felt the beauty of code abstraction |  
 | Day 77 | 02/11 | Exception Handling & Enums | ✔ | Mastered Custom Exceptions and Enums for compliance logic implementation |  
+| Day 78 | 02/12 | Intro to Spring Boot | ✔ | Overview of Spring Boot; understood its role as a "productivity multiplier" |  
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
