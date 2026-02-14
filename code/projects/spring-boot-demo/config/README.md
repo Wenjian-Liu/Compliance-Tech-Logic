@@ -1,47 +1,48 @@
-Environment Resilience Note:
+# DemoApplication - Compliance Automation Foundation
 
-This project was initialized under extreme disk constraints (C: < 100MB). To ensure system stability and build efficiency:
+> **Project Mission**: Establishing a robust, scalable environment for legal-tech automation, starting from extreme system constraints.
 
-​Storage Migration: Relocated Local Repository to D:/Java/.m2/repository.
-​Network Optimization: Configured Aliyun mirrors in settings.xml to bypass connectivity issues.
-​Fault Tolerance: Documented the fix for NUL corrupted POM files caused by system crashes.
+---
 
-#DemoApplication - 合規自動化開發環境起點#
+## 🛠 Environment & Tech Stack
+* **Framework**: Spring Boot 2.7.18
+* **IDE**: IntelliJ IDEA (Ultimate/Community)
+* **JDK**: 1.8+ (LTS)
+* **Build Tool**: Maven 3.x
 
-​這是基於 Spring Boot 2.7.18 構建的首個 Web 項目，標誌著從本地語言學習轉向分佈式系統架構的開始。
+---
 
-​1. 環境依賴 (Environment Context)
+## 🏗 Infrastructure Setup (Resilience Record)
+*This project was initialized under extreme disk constraints (C: < 100MB). Standard recovery protocols were applied.*
 
-​IDE: IntelliJ IDEA
+### 1. Storage & Path Migration
+To prevent system failure, the **Local Repository** has been migrated and locked to:
+- `D:\Java\.m2\repository`
 
-​JDK: 1.8+ (與 Spring Boot 2.7.x 兼容)
+### 2. Network Optimization
+Modified `config/settings.xml` with **Aliyun Maven Mirrors** to bypass connectivity issues and ensure build stability.
 
-​Framework: Spring Boot 2.7.18
+### 3. Fault Tolerance (Critical Fix)
+- **Problem**: `NUL` corrupted `oss-parent-7.pom` due to system crash.
+- **Solution**: Performed manual cache purging and enforced `Maven Reload`.
+- **Packaging**: Migrated the main class from `default package` to `com.wenjian` to comply with Spring Boot application standards.
 
-​Build Tool: Maven 3.x
+---
 
-​2. Maven 配置指南 (Infrastructure Setup)
+## 🚦 Getting Started
 
-​為避免系統盤（C盤）空間耗盡並提升依賴下載速度，本項目採用自定義 Maven 配置：
+### How to Run
+1. Open the project in **IntelliJ IDEA**.
+2. Run `DemoApplication.java`.
+3. Wait for the log: `Started DemoApplication in X seconds`.
 
-​本地倉庫 (Local Repository): D:\Java\.m2 epository
+### Verification
+Access the following endpoint to verify system health:
+- **URL**: [http://localhost:8080/hello](http://localhost:8080/hello)
+- **Expected Output**: `"Hallo Wenjian-liu! C盤空間充足，Spring順利運行！"`
 
-​配置文件 (Settings): D:\Java\.m2\settings.xml
+---
 
-​鏡像加速: 配置了 Aliyun Maven Mirror 以解決跨境網絡環境下的依賴下載超時問題。
-
-​3. 故障排除記錄 (Bug Fix Log)
-
-​依賴損壞修復: 針對系統崩潰導致的 oss-parent-7.pom 文件 NUL 損壞問題，通過手動清理本地倉庫緩存並執行 Maven Reload 成功恢復。
-
-​路徑規範: 修正了啟動類位於 default package 的結構錯誤，將核心代碼規範化遷移至 com.wenjian 包下。
-
-​4. 如何啟動與訪問
-
-​在 IDEA 中運行 DemoApplication.java。
-
-​待控制台顯示 Started DemoApplication 後，訪問以下接口：
-
-​接口地址: http://localhost:8080/hello
-
-​預期返回: "Hallo Wenjian-liu! C盤空間充足，Spring順利運行！"
+## 📂 Project Structure
+- `/src`: Application source code.
+- `/config`: Critical infrastructure configurations (e.g., `settings.xml`).
