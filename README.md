@@ -155,7 +155,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | **81** | **Spring Boot Architecture** | ✅ Done | Project structure standardized. |
 
 <details>
-  <summary>🔍 <b>Day 81 Technical Journal: Standardization & Infrastructure</b> (點擊展開詳細日誌)</summary>
+  <summary>🔍 <b>Day 81 Technical Journal: Standardization & Infrastructure</b> (Click to expand details)</summary>
 
 > **"Compliance begins with structure."** > Today marked the transition from loose script management to professional industry-standard project architecture.
 
