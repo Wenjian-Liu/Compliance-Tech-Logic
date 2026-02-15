@@ -92,7 +92,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day23 | 12/20 | 面向对象复盘：Product 设计 | ✔ | 回顾继承、多态与构造器链，反思设计扩展性 |
 | Day24 | 12/21 | 面向对象：工具类（Utility Class） | ✔ | static 方法复用、私有构造防实例化；角度↔弧度转换示例（未写代码） |
 | Day25 | 12/22 | 面向对象综合案例：用户注册/登录 | ✔ | 需求分析→模型设计→DAO→Service→UI，理解分层架构与低耦合设计 |
-| Day26 | 12/23 | 用户系统案例：解耦重构 | ✔ |  extract 重构与主流程调整，梳理层间依赖与调用链 |
+| Day26 | 12/23 | 用户系统案例：解耦重构 | ✔ | extract 重构与主流程调整，梳理层间依赖与调用链 |
 | Day27 | 12/24 | Overriding Object.equals | ✔ | Overrode `equals` method to compare `Person` objects by `name` and `age` |
 | Day28 | 12/25 | Object.equals Consolidation | ✔ | Reinforced equals semantics: reference vs value equality, type check + cast workflow, and common pitfalls (== vs equals) |
 | Day29 | 12/26 | Overriding hashCode with equals | ✔ | Implemented `hashCode()` consistent with `equals()` using `Objects.hash`, verified behavior via a small demo |
@@ -116,7 +116,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day47 | 01/13 | Map Implementations & Stream API Basics | ✔ | Learned Map implementation classes and the Set–Map correspondence (conceptual); practiced Stream creation and basic pipeline usage; explored common intermediate operations through stream demos (filter, map, limit, distinct) |
 | Day48 | 01/14 | Stream Terminal Operations | ✔ | Learned and practiced common Stream terminal operations (forEach, count, collect, toArray); completed StreamDemo4 to understand how streams produce final results and how terminal operations trigger execution |
 | Day49 | 01/15 | Prerequisites: Varargs & Collections Utility | ✔ | Reviewed prerequisite concepts including varargs (int... args) semantics and the Collections utility class; clarified usage scenarios and common patterns as preparation for deeper Collection and Stream usage |
-| Day50 | 01/16 | Collections review: List & Set | ✔ | Reviewed core Collection concepts with focus on List and Set; consolidated differences in structure, ordering, duplication rules, traversal methods, and typical usage scenarios |  
+| Day50 | 01/16 | Collections review: List & Set | ✔ | Reviewed core Collection concepts with focus on List and Set; consolidated differences in structure, ordering, duplication rules, traversal methods, and typical usage scenarios |
 | Day51 | 01/17 | File & IO overview | ✔ | Learned basic usage of File for file/directory operations and gained an overview of Java IO streams for reading and writing files; focused on conceptual understanding rather than hands-on coding |
 | Day52 | 01/18 | Dou Dizhu demo (OOP + Collections) | ✔ | Built a simplified Dou Dizhu game demo using OOP design; defined Card and Room classes, generated a 54-card deck with suits and ranks, shuffled with Collections.shuffle, dealt cards with bottom cards reserved for the landlord, and sorted each hand using Collections.sort |
 | Day53 | 01/19 | File API basics & directory traversal | ✔ | Learned File class basics including file creation and deletion; practiced traversing first-level directories and handling different file scenarios using File APIs |
@@ -125,9 +125,9 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day56 | 01/22 | Recursion Practice: Factorial & Sum | ✔ | Practiced recursion by implementing factorial calculation and sum from 1 to n; reinforced recursive structure and termination conditions through hands-on coding |
 | Day57 | 01/23 | Rest Day | ✔ | No Java study today; took a rest day to recover and maintain learning sustainability |
 | Day59 | 01/24 | Rest Day | ✔ | No Java study today due to personal schedule; maintained continuity in the learning log |
-| Day60 | 01/25 | Rest Day | ✔ | No Java study today due to personal schedule; learning log kept up to date |  
+| Day60 | 01/25 | Rest Day | ✔ | No Java study today due to personal schedule; learning log kept up to date |
 | Day61 | 01/26 | Method Recursion & File IO | ✔ | Finished Monkey Peach problem and recursive file search (qq.exe) |
-| Day62 | 01/27 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |  
+| Day62 | 01/27 | Rest Day | ✔ | Recovering from illness; prioritized health over coding |
 | Day63 | 01/28 | Rest Day | ✔ | Recovering from illness (Flu) |
 | Day64 | 01/29 | Rest Day | ✔ | Prioritized health over coding |
 | Day65 | 01/30 | Friend's Wedding | ✔ | Out of town for wedding ceremony |
@@ -140,13 +140,13 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day72 | 02/06 | FileOutputStream | ✔ | Writing data & Appending mode |
 | Day73 | 02/07 | IO Copy & Resource Mgmt | ✔ | Mastery of try-with-resources |
 | Day74 | 02/08 | Reflection & Annotations | ✔ | Reflection for Audit; Annotations for Masking |
-| Day 75 | 02/09 | Dynamic Proxy | ✔ | Implemented Proxy pattern; understood InvocationHandler |
+| Day75 | 02/09 | Dynamic Proxy | ✔ | Implemented Proxy pattern; understood InvocationHandler |
 | Day76 | 02/10 | Advanced Dynamic Proxy & Generics | ✔ | Applied Generics to ProxyUtil for universal method intercepting; felt the beauty of code abstraction |
-| Day 77 | 02/11 | Exception Handling & Enums | ✔ | Mastered Custom Exceptions and Enums for compliance logic implementation |
-| Day 78 | 02/12 | Intro to Spring Boot | ✔ | Overview of Spring Boot; understood its role as a "productivity multiplier" |
-| Day 79 | 02/13 | Java Break | ✔ | Java on pause for recovery |
-| Day 80 | 02/14 | Spring Boot & Maven Environment | ✔ | Rescued C drive; Fixed Maven NUL bug; First Hello World API running |
-| Day 81 | 02/15 | Maven Standardization & Git Workflow | ✔ | Migrated to standard project structure; Refined Maven/Git configurations |
+| Day77 | 02/11 | Exception Handling & Enums | ✔ | Mastered Custom Exceptions and Enums for compliance logic implementation |
+| Day78 | 02/12 | Intro to Spring Boot | ✔ | Overview of Spring Boot; understood its role as a "productivity multiplier" |
+| Day79 | 02/13 | Java Break | ✔ | Java on pause for recovery |
+| Day80 | 02/14 | Spring Boot & Maven Environment | ✔ | Rescued C drive; Fixed Maven NUL bug; First Hello World API running |
+| Day81 | 02/15 | Maven Standardization & Git Workflow | ✔ | Migrated to standard project structure; Refined Maven/Git configurations |
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
