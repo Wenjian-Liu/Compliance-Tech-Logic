@@ -155,7 +155,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 #### 1. Maven Project Standardization
 * **Structural Refactoring**: Migrated all legacy source files into the standard Maven directory hierarchy (`src/main/java/com/wenjian/...`).
-* **Dependency Management**: Successfully initialized `pom.xml` using **Java 17** and **Spring Boot 3.x**, aligning with LTS standards.
+* **Dependency Management**: Successfully initialized `pom.xml` using **Java 17** and **Spring Boot 2.7**, aligning with LTS standards.
 * **XML Proficiency**: Corrected syntax errors in `pom.xml` by adopting proper XML comment protocols (``).
 
 #### 2. Version Control & Repository Governance
