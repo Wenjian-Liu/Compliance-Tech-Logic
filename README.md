@@ -148,6 +148,31 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day80 | 02/14 | Spring Boot & Maven Environment | ✔ | Rescued C drive; Fixed Maven NUL bug; First Hello World API running |
 | Day81 | 02/15 | Maven Standardization & Git Workflow | ✔ | Migrated to standard project structure; Refined Maven/Git configurations |
 
+### 🚀 Progress Log
+
+| Day | Topic | Status | Notes |
+| :--- | :--- | :--- | :--- |
+| **81** | **Spring Boot Architecture** | ✅ Done | Project structure standardized. |
+
+<details>
+  <summary>🔍 <b>Day 81 Technical Journal: Standardization & Infrastructure</b> (點擊展開詳細日誌)</summary>
+
+> **"Compliance begins with structure."** > Today marked the transition from loose script management to professional industry-standard project architecture.
+
+#### 1. Maven Project Standardization
+* **Structural Refactoring**: Migrated all legacy source files into the standard Maven directory hierarchy (`src/main/java/com/wenjian/...`).
+* **Dependency Management**: Successfully initialized `pom.xml` using **Java 17** and **Spring Boot 3.x**, aligning with LTS standards.
+* **XML Proficiency**: Corrected syntax errors in `pom.xml` by adopting proper XML comment protocols (``).
+
+#### 2. Version Control & Repository Governance
+* **Artifact Filtering**: Implemented a robust `.gitignore` strategy to exclude build artifacts (`target/`) and IDE metadata (`.idea/`), maintaining a clean repository.
+* **Git Workflow**: Mastered the manual deployment of complex Maven projects, ensuring only essential source code is versioned.
+
+#### 3. Strategic Pathing
+* Organized the repository into a hierarchical structure under `/code/projects/spring-study/`, mirroring logical separation in large-scale legal-tech deployments.
+
+</details>
+
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
 
