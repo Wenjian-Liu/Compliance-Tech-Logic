@@ -230,6 +230,10 @@ G --> H[Backend Mini Projects]
 H --> I[Deploy to Cloud & Build Portfolio]
 ```
 
+Adaptive Path Note (Agile Development):
+​Current progress: Successfully implemented Core Compliance Logic via Spring Boot REST APIs prior to Database integration.
+​Reasoning: Prioritizing "Legal Intelligence" logic over data persistence to validate business requirements early in the development lifecycle.
+​Next Step: Integrate MySQL to persist contract audit trails.
 
 📌 Next Steps
 
