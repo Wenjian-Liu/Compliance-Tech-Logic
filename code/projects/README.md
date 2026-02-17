@@ -43,4 +43,4 @@ In traditional multinational corporations (MNCs), compliance manuals are static 
 
 ## 🚦 Verification
 Verify the deployed logic via the following sample URLs:
-1. **Approval Check**: `http://localhost:8080/check?amount=1200000` [cite: 45fcf1a4-2df2-48fb-87ae-2ed3b83a34
+1. **Approval Check**: `http://localhost:8080/check?amount=1200000`
