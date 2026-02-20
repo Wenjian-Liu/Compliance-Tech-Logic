@@ -276,15 +276,17 @@ Focus: OOP modeling, collection manipulation, sorting rules, and end-to-end proc
 
 🎯 Roadmap (2025–2027)
 ```mermaid
-graph TD;
+graph TD
     A[Java Basics] --> B[OOP & Design Patterns]
     B --> C[Collections & Streams]
-    C --> D[Exception & IO ⭐]
-    D --> E[MySQL & JDBC ⚡Current Focus]
+    C --> D[Exception & IO Core]
+    D --> E[MySQL & JDBC Current Focus]
     E --> F[Spring Boot Framework]
     F --> G[Compliance Engine Project]
     
     style E fill:#f9f,stroke:#333,stroke-width:4px
+    style D fill:#e1f5fe,stroke:#01579b
+
 ```
 
 Adaptive Path Note (Agile Development):
