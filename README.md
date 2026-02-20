@@ -259,8 +259,8 @@ Sorted each player’s hand using Collections.sort() based on card weight
 Focus: OOP modeling, collection manipulation, sorting rules, and end-to-end process organization.
 
 🎯 Roadmap (2025–2027)
-mermaid
-```
+
+```mermaid
 graph TD
 A[Java-Basics]-->B[OOP-Design]
 B-->C[Collections-Streams]
