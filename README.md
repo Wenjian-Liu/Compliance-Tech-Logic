@@ -39,22 +39,6 @@ During my tenure at **KKCN**, I managed complex cross-border compliance projects
 <p align="center"> <img src="https://img.shields.io/badge/Java-Progress-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/365--Day%20Challenge-In%20Progress-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/LeetCode-Started-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/GitHub-Active%20Learning-success?style=for-the-badge"> </p>
 🚀 About This Repository
 
-This repo records my daily Java learning journey, including:
-
-🔹 Core Java Syntax
-
-🔹 OOP (Encapsulation, Inheritance, Polymorphism)
-
-🔹 Methods & Arrays
-
-🔹 Collections Framework
-
-🔹 Console-based Mini Projects
-
-🔹 LeetCode Practice
-
-🔹 Gradual Progress Toward Spring Boot & Backend Development
-
 Bridging the gap between Legal Compliance and Backend Development. 
 
 Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Architecture (e.g., Automated Data Deletion via Reflection & Annotations).
@@ -208,7 +192,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 * **Resource Governance**: Implemented "Outside-In" resource release patterns (ResultSet -> Statement -> Connection) to prevent memory leaks and connection exhaustion.
 
 #### 2. Security & Performance (PreparedStatement)
-* **​Anti-Injection Strategy**: Identified the vulnerabilities of Statement and fully transitioned to **PreparedStatement**.
+* **​Anti-Injection Strategy**: Identified the vulnerabilities of Statement and fully transitioned to **PreparedStatement (Security Milestone)**.
 * **Pre-compilation Benefits**: Understood how pre-compiled SQL enhances both system security and execution efficiency—a critical requirement for high-stakes LegalTech environments.
 
 #### 3. Data Transformation (ORM Foundations)
