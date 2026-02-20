@@ -176,18 +176,18 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 <details>
   <summary>🔍 <b>Day 86 Technical Journal: Database Connectivity & Security Hardening </b> (Click to expand details)</summary>
 
-> **"Compliance begins with structure."** > Today marked the transition from loose script management to professional industry-standard project architecture.
+> **​"Data persistence is the foundation of any reliable compliance system."** > Today bridged the gap between Java and MySQL, moving from hardcoded logic to dynamic data management.
 
-#### 1. Maven Project Standardization
-* **Structural Refactoring**: Migrated all legacy source files into the standard Maven directory hierarchy (`src/main/java/com/wenjian/...`).
-* **Dependency Management**: Successfully initialized `pom.xml` using **Java 17** and **Spring Boot 2.7**, aligning with LTS standards.
-* **XML Proficiency**: Corrected syntax errors in `pom.xml` by adopting proper XML comment protocols (``).
+#### 1. JDBC Standard Workflow (The 7 Steps)
+* **​Driver Management**: Mastered explicit driver loading via Class.forName("com.mysql.cj.jdbc.Driver").
+* **Connection Lifecycle**: Established secure sessions using standard URL protocols (jdbc:mysql://localhost:3306/db1).
+* **Resource Governance**: Implemented "Outside-In" resource release patterns (ResultSet -> Statement -> Connection) to prevent memory leaks and connection exhaustion.
 
-#### 2. Version Control & Repository Governance
-* **Artifact Filtering**: Implemented a robust `.gitignore` strategy to exclude build artifacts (`target/`) and IDE metadata (`.idea/`), maintaining a clean repository.
-* **Git Workflow**: Mastered the manual deployment of complex Maven projects, ensuring only essential source code is versioned.
+#### 2. Security & Performance (PreparedStatement)
+* **​Anti-Injection Strategy**: Identified the vulnerabilities of Statement and fully transitioned to **PreparedStatement**.
+* **Pre-compilation Benefits**: Understood how pre-compiled SQL enhances both system security and execution efficiency—a critical requirement for high-stakes LegalTech environments.
 
-#### 3. Strategic Pathing
+#### 3. Data Transformation (ORM Foundations)
 * Organized the repository into a hierarchical structure under `/code/projects/spring-study/`, mirroring logical separation in large-scale legal-tech deployments.
 
 </details>
