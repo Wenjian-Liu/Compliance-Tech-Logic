@@ -15,7 +15,7 @@ public class JDBCSelectAll {
 
 		String url = "jdbc:mysql://127.0.0.1:3306/db1";
 		String username = "root";
-		String password = "1234";
+		String password = "***";
 		Connection conn = DriverManager.getConnection(url, username, password);
 
 		//1. 定义一个List集合，准备准给所有的User对象
@@ -53,4 +53,5 @@ public class JDBCSelectAll {
 		pstmt.close();
 		conn.close();
 	}
+
 }
