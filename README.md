@@ -275,7 +275,7 @@ Sorted each player’s hand using Collections.sort() based on card weight
 Focus: OOP modeling, collection manipulation, sorting rules, and end-to-end process organization.
 
 🎯 Roadmap (2025–2027)
-![Roadmap](https://mermaid.ink/img/pako:eNptkEELwjAMhf9KyGl_gB48iB7E48S7S9st6mptm6Yy9t9NByIezUnS970vLzAnY_S8UMG-atKAVSmdU5pYqV091T4I_E4Gv_DCS9X6FmU-9IBy-Xw8BAn8pM8P7Yh8l_p1uY-TzK73iVvUbeLre_8tO_pS_6mC-HkK6hI0YAdWpS9KjS_S0hC5K_fCqO04Fw0u_q6S2vAnJpXWdK_Yt92XWIn0Anf-Yq8)
+[![Roadmap](https://mermaid.ink/img/pako:eNptkEELwjAMhf9KyGl_gB48iB7E48S7S9st6mptm6Yy9t9NByIezUnS970vLzAnY_S8UMG-atKAVSmdU5pYqV091T4I_E4Gv_DCS9X6FmU-9IBy-Xw8BAn8pM8P7Yh8l_p1uY-TzK73iVvUbeLre_8tO_pS_6mC-HkK6hI0YAdWpS9KjS_S0hC5K_fCqO04Fw0u_q6S2vAnJpXWdK_Yt92XWIn0Anf-Yq8)](https://mermaid.live/edit#pako:eNptkEELwjAMhf9KyGl_gB48iB7E48S7S9st6mptm6Yy9t9NByIezUnS970vLzAnY_S8UMG-atKAVSmdU5pYqV091T4I_E4Gv_DCS9X6FmU-9IBy-Xw8BAn8pM8P7Yh8l_p1uY-TzK73iVvUbeLre_8tO_pS_6mC-HkK6hI0YAdWpS9KjS_S0hC5K_fCqO04Fw0u_q6S2vAnJpXWdK_Yt92XWIn0Anf-Yq8)
 
 
 Adaptive Path Note (Agile Development):
