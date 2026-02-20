@@ -17,7 +17,7 @@ public class JDBCDemo {
 		//2. 获取连接
 		String url = "jdbc:mysql://127.0.0.1:3306/db1";
 		String username = "root";
-		String password = "1234";
+		String password = "***";
 		Connection conn = DriverManager.getConnection(url, username, password);
 
 		//3. 定义sql
@@ -53,3 +53,4 @@ public class JDBCDemo {
 		conn.close();
 	}
 }
+
