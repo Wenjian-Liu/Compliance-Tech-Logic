@@ -192,7 +192,12 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 </details>
 
-
+​3. Data Transformation (ORM Foundations)
+​Entity Modeling: Developed the User POJO (Plain Old Java Object) to encapsulate database records.
+​Collection Mapping: Implemented logic to traverse ResultSet and map rows into an ArrayList<User>, converting raw database tables into actionable Java objects.
+​4. Debugging & Infrastructure
+​CLI Proficiency: Performed manual data verification and DML operations via MySQL command-line interface in custom D-drive directories.
+​Refined Execution: Resolved critical logic errors regarding PreparedStatement parameter passing (Empty executeQuery() after pre-compilation).
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
