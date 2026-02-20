@@ -151,7 +151,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day 83 | 02/17 | Spring Boot Logic & Configuration | ✔ | Implemented Legal Logic APIs; Mastered properties vs. YAML configuration |
 | Day 84 | 02/18 | Scheduled Downtime | ✔ | System idle for recovery; Pre-configured for properties/yaml deep dive |
 | Day 85 | 02/19 | YAML Syntax & Configuration Retrieval | ✔ | Mastered YAML list/array structures and @Value/@ConfigurationProperties |
-
+| Day 86 | 02/20 | JDBC & Database Persistence | ✔ | Mastered JDBC 7-step workflow, PreparedStatement, and Result-to-Object mapping |
 
 
 <details>
@@ -172,6 +172,8 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 * Organized the repository into a hierarchical structure under `/code/projects/spring-study/`, mirroring logical separation in large-scale legal-tech deployments.
 
 </details>
+
+
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
