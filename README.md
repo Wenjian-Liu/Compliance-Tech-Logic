@@ -259,8 +259,17 @@ Sorted each player’s hand using Collections.sort() based on card weight
 Focus: OOP modeling, collection manipulation, sorting rules, and end-to-end process organization.
 
 🎯 Roadmap (2025–2027)
-[![Roadmap](https://mermaid.ink/img/pako:eNptkEELwjAMhf9KyGl_gB48iB7E48S7S9st6mptm6Yy9t9NByIezUnS970vLzAnY_S8UMG-atKAVSmdU5pYqV091T4I_E4Gv_DCS9X6FmU-9IBy-Xw8BAn8pM8P7Yh8l_p1uY-TzK73iVvUbeLre_8tO_pS_6mC-HkK6hI0YAdWpS9KjS_S0hC5K_fCqO04Fw0u_q6S2vAnJpXWdK_Yt92XWIn0Anf-Yq8)](https://mermaid.live/edit#pako:eNptkEELwjAMhf9KyGl_gB48iB7E48S7S9st6mptm6Yy9t9NByIezUnS970vLzAnY_S8UMG-atKAVSmdU5pYqV091T4I_E4Gv_DCS9X6FmU-9IBy-Xw8BAn8pM8P7Yh8l_p1uY-TzK73iVvUbeLre_8tO_pS_6mC-HkK6hI0YAdWpS9KjS_S0hC5K_fCqO04Fw0u_q6S2vAnJpXWdK_Yt92XWIn0Anf-Yq8)
-
+mermaid
+```
+graph TD
+A[Java-Basics]-->B[OOP-Design]
+B-->C[Collections-Streams]
+C-->D[Exception-IO]
+D-->E[MySQL-JDBC-Current]
+E-->F[Spring-Boot]
+F-->G[Compliance-Project]
+style E fill:#f9f,stroke:#333,stroke-width:4px
+```
 
 Adaptive Path Note (Agile Development):
 ​Current progress: Successfully implemented Core Compliance Logic via Spring Boot REST APIs prior to Database integration.
