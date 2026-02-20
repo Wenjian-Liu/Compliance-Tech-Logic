@@ -151,7 +151,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day 83 | 02/17 | Spring Boot Logic & Configuration | ✔ | Implemented Legal Logic APIs; Mastered properties vs. YAML configuration |
 | Day 84 | 02/18 | Scheduled Downtime | ✔ | System idle for recovery; Pre-configured for properties/yaml deep dive |
 | Day 85 | 02/19 | YAML Syntax & Configuration Retrieval | ✔ | Mastered YAML list/array structures and @Value/@ConfigurationProperties |
-| Day 86 | 02/20 | JDBC & Database Persistence | ✔ | Mastered JDBC 7-step workflow, PreparedStatement, and Result-to-Object mapping |
+| Day 86 | 02/20 | JDBC & Database Persistence | ✔ | Mastered JDBC 7-step workflow, PreparedStatement, and Result-to-Object mapping, Finalized 'src' hierarchy for persistence layer; Established project-wide coding standards |
 
 
 <details>
@@ -195,7 +195,12 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 * **​CLI Proficiency**: Performed manual data verification and DML operations via MySQL command-line interface in custom D-drive directories.
 * **Refined Execution**: Resolved critical logic errors regarding PreparedStatement parameter passing (Empty executeQuery() after pre-compilation).
 
+#### 5. Engineering Standards Update
+* **Legacy Strategy**: Archived `code/basics/` as functional syntax notes.
+* **New Standard**: Committed all JDBC source files to `src/com/wenjian/jdbc/` to ensure package-path alignment. This marks the transition from "Syntax Learning" to "Enterprise-Level Engineering."
+
 </details>
+
 
 🧩 Featured Mini Projects  
 🥗 1. Healthy BMI Calculator
