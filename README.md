@@ -6,6 +6,15 @@
 <img src="https://img.shields.io/badge/Focus-IT%20Compliance-gold?style=for-the-badge"> 
 </p>
 
+## 🛠️ Technical Stack (Legal-Tech Focus)
+| Layer | Tech Stack | Compliance Application |
+| :--- | :--- | :--- |
+| **Backend** | Java 17, Spring Boot 2.7+ | Automated Regulatory Logic (TIA/AML) |
+| **Persistence** | MySQL, JDBC, Druid (Planned) | Secure Audit Trail & Data Logging |
+| **Security** | PreparedStatement, Proxy Pattern | SQL Injection Prevention, Method Interception |
+| **DevOps** | Maven, Git, JUnit | Standardized Infrastructure & Reliable Testing |
+
+
 ## 🚀 Why Java for Compliance?
 Bridging the gap between **Legal Regulatory requirements (PIPL/GDPR Transfer Impact Assessment Logic)** and **Systemic Automation**.
 
@@ -65,6 +74,9 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 每一天都要有真实进步。
 
+<details>
+  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 80)</b></summary>
+  
 | Day | Date | Topic | Status | Notes |
 |:---:|:---:|---|:---:|---|
 | Day1 | 11/27 | OOP Basics | ✔ | Classes & Objects |
@@ -146,12 +158,24 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day78 | 02/12 | Intro to Spring Boot | ✔ | Overview of Spring Boot; understood its role as a "productivity multiplier" |
 | Day79 | 02/13 | Java Break | ✔ | Java on pause for recovery |
 | Day80 | 02/14 | Spring Boot & Maven Environment | ✔ | Rescued C drive; Fixed Maven NUL bug; First Hello World API running |
+
+  </details>
+
+| Day | Date | Topic | Status | Notes |
+|:---:|:---:|---|:---:|---|
 | Day81 | 02/15 | Maven Standardization & Git Workflow | ✔ | Migrated to standard project structure; Refined Maven/Git configurations |
 | Day 82 | 02/16 | Lunar New Year's Eve | 🏮 | System Idle for CNY; Scheduled Maintenance & Family Reunion |
 | Day 83 | 02/17 | Spring Boot Logic & Configuration | ✔ | Implemented Legal Logic APIs; Mastered properties vs. YAML configuration |
 | Day 84 | 02/18 | Scheduled Downtime | ✔ | System idle for recovery; Pre-configured for properties/yaml deep dive |
 | Day 85 | 02/19 | YAML Syntax & Configuration Retrieval | ✔ | Mastered YAML list/array structures and @Value/@ConfigurationProperties |
 | Day 86 | 02/20 | JDBC & Database Persistence | ✔ | Mastered JDBC 7-step workflow, PreparedStatement, and Result-to-Object mapping, Finalized 'src' hierarchy for persistence layer; Established project-wide coding standards |
+
+### 🗓️ Recent Progress (Advanced Backend)
+| Day | Date | Topic | Status | Key Achievement |
+|:---:|:---:|---|:---:|---|
+| Day 86 | 02/20 | JDBC & Persistence | ✔ | PreparedStatement & ORM Foundations |
+| Day 85 | 02/19 | YAML & Config | ✔ | Advanced Spring Boot Configuration |
+| ... | ... | ... | ... | ... |
 
 
 <details>
@@ -233,7 +257,7 @@ Focus: procedural refactoring → method extraction → basic layering awareness
 第一道“看得懂 + 自己写对”的 LeetCode 算法题。  
 📂 LeetCode/LC013_RomanToInteger.java
 
-🎬 4. Movie Management System (Console CRUD)
+🎬 4. Entity Management Subsystem (CRUD Logic) — 演示如何使用 ArrayList 和分層設計管理複雜對象
 
 ArrayList storage  
 Add / remove / update / query / list  
@@ -253,14 +277,14 @@ Focus: OOP modeling, collection manipulation, sorting rules, and end-to-end proc
 🎯 Roadmap (2025–2027)
 ```mermaid
 graph TD;
-A[Java Basics] --> B[OOP: Encapsulation / Inheritance / Polymorphism]
-B --> C[Arrays & Methods]
-C --> D[Collections Framework]
-D --> E[Exception Handling & IO Streams  ⭐Core Compliance Layer]
-E --> F[MySQL + JDBC]
-F --> G[Spring Boot]
-G --> H[Backend Mini Projects]
-H --> I[Deploy to Cloud & Build Portfolio]
+    A[Java Basics] --> B[OOP & Design Patterns]
+    B --> C[Collections & Streams]
+    C --> D[Exception & IO ⭐]
+    D --> E[MySQL & JDBC ⚡Current Focus]
+    E --> F[Spring Boot Framework]
+    F --> G[Compliance Engine Project]
+    
+    style E fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 Adaptive Path Note (Agile Development):
@@ -271,14 +295,9 @@ Adaptive Path Note (Agile Development):
 📌 Next Steps
 
  深入数组 + 方法练习
-
- 异常处理初学
-
- 集合框架（List、Map）
-
- Mini Project #2：迷你记账系统
-
- Spring Boot Mastery & Project Launch（2026 Q2）
+​[ ] JDBC 封裝：實現 JDBCUtils 提高開發效率。  
+​[ ] 數據庫連接池：引入 Druid 提升 LCE 高併發審計性能。  
+​[ ] Spring Boot 數據整合：將 JDBC 邏輯遷移至 Spring Boot 的 Service 層。  
 
 ❤️ Why This Matters  
 In the era of digital compliance, code is the new law. Every commit here translates legal constraints into systemic certainties.
