@@ -173,6 +173,25 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 </details>
 
+<details>
+  <summary>🔍 <b>Day 86 Technical Journal: Database Connectivity & Security Hardening </b> (Click to expand details)</summary>
+
+> **"Compliance begins with structure."** > Today marked the transition from loose script management to professional industry-standard project architecture.
+
+#### 1. Maven Project Standardization
+* **Structural Refactoring**: Migrated all legacy source files into the standard Maven directory hierarchy (`src/main/java/com/wenjian/...`).
+* **Dependency Management**: Successfully initialized `pom.xml` using **Java 17** and **Spring Boot 2.7**, aligning with LTS standards.
+* **XML Proficiency**: Corrected syntax errors in `pom.xml` by adopting proper XML comment protocols (``).
+
+#### 2. Version Control & Repository Governance
+* **Artifact Filtering**: Implemented a robust `.gitignore` strategy to exclude build artifacts (`target/`) and IDE metadata (`.idea/`), maintaining a clean repository.
+* **Git Workflow**: Mastered the manual deployment of complex Maven projects, ensuring only essential source code is versioned.
+
+#### 3. Strategic Pathing
+* Organized the repository into a hierarchical structure under `/code/projects/spring-study/`, mirroring logical separation in large-scale legal-tech deployments.
+
+</details>
+
 
 
 🧩 Featured Mini Projects  
