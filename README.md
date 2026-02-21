@@ -45,11 +45,11 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 86/365
+🔥 Current Streak: Day 87/365
 
 📦 Total Commits: 92+
 
-⏳ Total Learning Time: ~59.5h
+⏳ Total Learning Time: ~60h
 
 🧭 Current Stage: Advanced Logic: Exception Handling & Enums for Automated Auditing
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -153,6 +153,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day 84 | 02/18 | Scheduled Downtime | ✔ | System idle for recovery; Pre-configured for properties/yaml deep dive |
 | Day 85 | 02/19 | YAML Syntax & Configuration Retrieval | ✔ | Mastered YAML list/array structures and @Value/@ConfigurationProperties |
 | Day 86 | 02/20 | JDBC & Database Persistence | ✔ | Mastered JDBC 7-step workflow, PreparedStatement, and Result-to-Object mapping, Finalized 'src' hierarchy for persistence layer; Established project-wide coding standards |
+| Day 87 | 02/21 | Spring Boot Integration: MyBatis & Bean Lifecycle | ✔ | Integrated MyBatis; Mastered @Mapper & Component Scanning |
 
 ### 🗓️ Recent Progress (Advanced Backend)
 | Day | Date | Topic | Status | Key Achievement |
