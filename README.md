@@ -217,16 +217,16 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
   <summary>🔍 <b>Day 89 Technical Journal</b> (Click to expand details)</summary>
 
 #### 1. Strategy Pattern & Conditional Configuration
-* **Implementation**: Migrated all legacy source files into the standard Maven directory hierarchy (`src/main/java/com/wenjian/...`).
-* **Environment Isolation**: Successfully initialized `pom.xml` using **Java 17** and **Spring Boot 2.7**, aligning with LTS standards.
+* **Implementation**: Leveraged @ConditionalOnProperty to enable dynamic switching between GdprChecker and PiplChecker based on application.properties.
+* **Environment Isolation**: Utilized Spring Profiles (application-cn.properties / application-eu.properties) to physically separate regional legal configurations, simulating a real-world multi-national compliance environment.
 
 #### 2. Exception-Driven Compliance Architecture
-* **Fail-Fast Princinple**: Implemented a robust `.gitignore` strategy to exclude build artifacts (`target/`) and IDE metadata (`.idea/`), maintaining a clean repository.
-* **Engineering Value**: Successfully initialized `pom.xml` using **Java 17** and **Spring Boot 2.7**, aligning with LTS standards.
+* **Fail-Fast Princinple**: Refactored DataService to discard primitive boolean returns in favor of throwing a custom ComplianceViolationException.
+* **Engineering Value**: This approach ensures "strong enforcement" of compliance rules. By throwing an exception, the business execution flow is immediately terminated, preventing non-compliant data from reaching the persistence layer or downstream services.
 
 #### 3. Application Context Lifecycle Management
-* **Bootstrap Standardization**: Implemented a robust `.gitignore` strategy to exclude build artifacts (`target/`) and IDE metadata (`.idea/`), maintaining a clean repository.
-* **Log Stream Synchronization**: Implemented a robust `.gitignore` strategy to exclude build artifacts (`target/`) and IDE metadata (`.idea/`), maintaining a clean repository.
+* **Bootstrap Standardization**: Corrected the execution sequence in LegalTechApplication. Business logic now executes only after SpringApplication.run() has fully refreshed the context and beans are retrieved via context.getBean().
+* **Log Stream Synchronization**: Resolved the interleaving of System.out and Spring framework startup logs, ensuring that technical audit outputs are clear and sequential.
 
 </details>
 
