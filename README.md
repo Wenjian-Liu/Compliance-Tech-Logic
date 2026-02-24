@@ -289,7 +289,7 @@ C-->D[Exception-IO]
 D-->E[MySQL-JDBC-Current]
 E-->F[Spring-Boot]
 F-->G[Compliance-Project]
-style E fill:#f9f,stroke:#333,stroke-width:4px
+style F fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 Adaptive Path Note (Agile Development):
