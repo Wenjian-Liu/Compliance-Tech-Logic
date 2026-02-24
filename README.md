@@ -2,7 +2,7 @@
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/German-PGH%20%2F%20Level%208-red?style=for-the-badge&logo=germany&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java%20Progress-OOP%20%26%20Proxy-blue?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java%20Progress-Spring%20%26%20Boot-blue?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Focus-IT%20Compliance-gold?style=for-the-badge"> 
 </p>
 
