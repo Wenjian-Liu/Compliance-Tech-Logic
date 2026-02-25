@@ -45,11 +45,11 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 89/365
+🔥 Current Streak: Day 91/365
 
 📦 Total Commits: 103+
 
-⏳ Total Learning Time: ~63h
+⏳ Total Learning Time: ~65h
 
 🧭 Current Stage: Advanced Logic: Exception Handling & Enums for Automated Auditing
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -157,6 +157,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day 88 | 02/22 | Spring Boot: Configuration & Conditional Injection | ✔ | Mastered @Configuration, @Bean, @Import & Advanced Conditionals (@OnProperty, @OnClass, @OnMissingBean) |
 | Day 89 | 02/23 | Spring Boot: Compliance Strategy & Exception Architecture | ✔ | Integrated multi-region strategies with custom fail-fast exceptions |
 | Day 90 | 02/24 | Professional Profile Optimization | ✔ | Refined IT Resume |
+| Day 91 | 02/25 | Java 10-17 Features & Stream API Enhancements | ✔ | Applied Sealed Classes, Text Blocks, Var, and takeWhile/dropWhile |
 
 
 ### 🗓️ Recent Progress (Advanced Backend)
