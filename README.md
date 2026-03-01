@@ -45,11 +45,11 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 94/365
+🔥 Current Streak: Day 95/365
 
 📦 Total Commits: 103+
 
-⏳ Total Learning Time: ~68.5h
+⏳ Total Learning Time: ~69.5h
 
 🧭 Current Stage: Advanced Logic: Exception Handling & Enums for Automated Auditing
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -161,6 +161,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day 92 | 02/26 | Java Core: OOP Mechanisms & Polymorphism | ✔ | Mastered Method Overloading, Access Control, Type Casting, and Field Hiding |
 | Day 93 | 02/27 | SQL Fundamentals & Relational Database Logic | ✔ | Mastered DDL/DML operations and foundational query structures |
 | Day 94 | 02/28 | LeetCode SQL Practice: Data Transformation & Constraints | ✔ | Solved 8 problems including Joins, Data Cleansing, and Schema Updates |
+| Day 95 | 03/01 | SQL: Aggregation & Multi-table Relational Queries | ✔ | Mastered Group By, Joins, and Null-conditional filtering via LeetCode |
 
 
 ### 🗓️ Recent Progress (Advanced Backend)
