@@ -45,11 +45,11 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 95/365
+🔥 Current Streak: Day 96/365
 
-📦 Total Commits: 103+
+📦 Total Commits: 107+
 
-⏳ Total Learning Time: ~69.5h
+⏳ Total Learning Time: ~71h
 
 🧭 Current Stage: Advanced Logic: Exception Handling & Enums for Automated Auditing
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -59,7 +59,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 每一天都要有真实进步。
 
 <details>
-  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 80)</b></summary>
+  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 90)</b></summary>
   
 | Day | Date | Topic | Status | Notes |
 |:---:|:---:|---|:---:|---|
@@ -142,11 +142,6 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day78 | 02/12 | Intro to Spring Boot | ✔ | Overview of Spring Boot; understood its role as a "productivity multiplier" |
 | Day79 | 02/13 | Java Break | ✔ | Java on pause for recovery |
 | Day80 | 02/14 | Spring Boot & Maven Environment | ✔ | Rescued C drive; Fixed Maven NUL bug; First Hello World API running |
-
-  </details>
-
-| Day | Date | Topic | Status | Notes |
-|:---:|:---:|---|:---:|---|
 | Day81 | 02/15 | Maven Standardization & Git Workflow | ✔ | Migrated to standard project structure; Refined Maven/Git configurations |
 | Day 82 | 02/16 | Lunar New Year's Eve | 🏮 | System Idle for CNY; Scheduled Maintenance & Family Reunion |
 | Day 83 | 02/17 | Spring Boot Logic & Configuration | ✔ | Implemented Legal Logic APIs; Mastered properties vs. YAML configuration |
@@ -157,11 +152,17 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day 88 | 02/22 | Spring Boot: Configuration & Conditional Injection | ✔ | Mastered @Configuration, @Bean, @Import & Advanced Conditionals (@OnProperty, @OnClass, @OnMissingBean) |
 | Day 89 | 02/23 | Spring Boot: Compliance Strategy & Exception Architecture | ✔ | Integrated multi-region strategies with custom fail-fast exceptions |
 | Day 90 | 02/24 | Professional Profile Optimization | ✔ | Refined IT Resume |
+
+  </details>
+
+| Day | Date | Topic | Status | Notes |
+|:---:|:---:|---|:---:|---|
 | Day 91 | 02/25 | Java 10-17 Features & Stream API Enhancements | ✔ | Applied Sealed Classes, Text Blocks, Var, and takeWhile/dropWhile |
 | Day 92 | 02/26 | Java Core: OOP Mechanisms & Polymorphism | ✔ | Mastered Method Overloading, Access Control, Type Casting, and Field Hiding |
 | Day 93 | 02/27 | SQL Fundamentals & Relational Database Logic | ✔ | Mastered DDL/DML operations and foundational query structures |
 | Day 94 | 02/28 | LeetCode SQL Practice: Data Transformation & Constraints | ✔ | Solved 8 problems including Joins, Data Cleansing, and Schema Updates |
 | Day 95 | 03/01 | SQL: Aggregation & Multi-table Relational Queries | ✔ | Mastered Group By, Joins, and Null-conditional filtering via LeetCode |
+| Day 96 | 03/02 | Unit Testing: JUnit 5 & Mockito Foundations | ✔ | Implemented data masking logic with Parameterized Tests and Mockito integration |
 
 
 ### 🗓️ Recent Progress (Advanced Backend)
