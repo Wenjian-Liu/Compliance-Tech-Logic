@@ -45,11 +45,11 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 97/365
+🔥 Current Streak: Day 99/365
 
 📦 Total Commits: 107+
 
-⏳ Total Learning Time: ~75.5h
+⏳ Total Learning Time: ~76.5h
 
 🧭 Current Stage: Advanced Logic: Exception Handling & Enums for Automated Auditing
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -165,7 +165,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day 96 | 03/02 | Unit Testing: JUnit 5 & Mockito Foundations | ✔ | Implemented data masking logic with Parameterized Tests and Mockito integration |
 | Day 97 | 03/03 | Compliance Automation: KIE-CI & Web Interceptors | ✔ | Integrated KIE-CI with HandlerInterceptor for dynamic GDPR consent validation |
 | Day 98 | 03/04 | Rules Engine: Drools Integration & Compliance Logic | ✔ | Successfully integrated Drools (KIE) to decouple GDPR business rules |
-
+| Day 99 | 03/05 | Compliance Engineering: AML Check Utility | ✔ | Implemented Anti-Money Laundering (AML) component with JUnit assertFalse validation |
 
 
 ### 🗓️ Recent Progress (Advanced Backend)
