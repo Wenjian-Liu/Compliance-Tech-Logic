@@ -13,8 +13,3 @@ A modular compliance validation engine designed to bridge the gap between regula
 * **AmountRule:** Implements threshold monitoring to prevent large-sum transaction risks.
 * **CurrencyRule:** Validates restricted currencies (e.g., BTC) to ensure regional regulatory alignment.
 * **Performance Aspect:** Automated logging of compliance execution time to meet auditability standards.
-
-### 🚀 Getting Started
-1. Clean and install dependencies:
-   ```bash
-   mvn clean install
