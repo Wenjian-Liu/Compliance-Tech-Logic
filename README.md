@@ -39,23 +39,18 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 | **Education** | Tongji University (LL.M Candidate) \| Heidelberg University (Visiting) |
 
 
-📊 Learning Stats
+## 📈 Java & Compliance Journey (Log)
 
-🔥 Current Streak: Day 104/365
-
-📦 Total Commits: 117+
-
-⏳ Total Learning Time: ~78h
-
-🧭 Current Stage: Advanced Logic: Exception Handling & Enums for Automated Auditing
-   - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
-
-🗓 Progress Log
-
-每一天都要有真实进步。
+每一天都要有真实进步。这部分记录了我从法务转型法律工程师的底层技术积累。
 
 <details>
-  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 90)</b></summary>
+  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 105)</b></summary>
+
+🔥 **Current Streak**: Day 105
+📦 **Total Commits**: 117+
+
+<details>
+  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 105)</b></summary>
   
 | Day | Date | Topic | Status | Notes |
 |:---:|:---:|---|:---:|---|
@@ -148,8 +143,24 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 | Day 88 | 02/22 | Spring Boot: Configuration & Conditional Injection | ✔ | Mastered @Configuration, @Bean, @Import & Advanced Conditionals (@OnProperty, @OnClass, @OnMissingBean) |
 | Day 89 | 02/23 | Spring Boot: Compliance Strategy & Exception Architecture | ✔ | Integrated multi-region strategies with custom fail-fast exceptions |
 | Day 90 | 02/24 | Professional Profile Optimization | ✔ | Refined IT Resume |
+| Day 91 | 02/25 | Java 10-17 Features & Stream API Enhancements | ✔ | Applied Sealed Classes, Text Blocks, Var, and takeWhile/dropWhile |
+| Day 92 | 02/26 | Java Core: OOP Mechanisms & Polymorphism | ✔ | Mastered Method Overloading, Access Control, Type Casting, and Field Hiding |
+| Day 93 | 02/27 | SQL Fundamentals & Relational Database Logic | ✔ | Mastered DDL/DML operations and foundational query structures |
+| Day 94 | 02/28 | LeetCode SQL Practice: Data Transformation & Constraints | ✔ | Solved 8 problems including Joins, Data Cleansing, and Schema Updates |
+| Day 95 | 03/01 | SQL: Aggregation & Multi-table Relational Queries | ✔ | Mastered Group By, Joins, and Null-conditional filtering via LeetCode |
+| Day 96 | 03/02 | Unit Testing: JUnit 5 & Mockito Foundations | ✔ | Implemented data masking logic with Parameterized Tests and Mockito integration |
+| Day 97 | 03/03 | Compliance Automation: KIE-CI & Web Interceptors | ✔ | Integrated KIE-CI with HandlerInterceptor for dynamic GDPR consent validation |
+| Day 98 | 03/04 | Rules Engine: Drools Integration & Compliance Logic | ✔ | Successfully integrated Drools (KIE) to decouple GDPR business rules |
+| Day 99 | 03/05 | Compliance Engineering: AML Check Utility | ✔ | Implemented Anti-Money Laundering (AML) component with JUnit assertFalse validation |
+| Day 100 | 03/06 | Spring AOP & Audit Logging: Method Instrumentation | ✔ | Implemented AOP-based audit logging with JoinPoint metadata and SLF4J |
+| Day 101 | 03/07 | Knowledge Consolidation & System Maintenance | ✔ | Mental recharge and technical review for the next project phase |
+| Day 102 | 03/08 | Personal Management & Environmental Optimization | ✔ | Handled administrative tasks to ensure a stable development environment |
+| Day 103 | 03/09 | Architectural Design: Legal-to-Code Constraint Mapping | ✔ | Formalized system constraints based on regulatory logic and hard-coding rules |
+| Day 105 | 03/10 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
+
 
   </details>
+   <summary>📜 <b>View Full Learning Archive (Day 1 - Day 105)</b></summary>
 
 | Day | Date | Topic | Status | Notes |
 |:---:|:---:|---|:---:|---|
