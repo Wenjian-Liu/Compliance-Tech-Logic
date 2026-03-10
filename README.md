@@ -43,7 +43,7 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 
 每一天都要有真实进步。这部分记录了我从法务转型法律工程师的底层技术积累。
 
-🔥 **Current Streak**: Day 105  
+🔥 **Current Streak**: Day 104 
 📦 **Total Commits**: 117+  
 
 <details>
@@ -153,7 +153,7 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 | Day 101 | 03/07 | Knowledge Consolidation & System Maintenance | ✔ | Mental recharge and technical review for the next project phase |
 | Day 102 | 03/08 | Personal Management & Environmental Optimization | ✔ | Handled administrative tasks to ensure a stable development environment |
 | Day 103 | 03/09 | Architectural Design: Legal-to-Code Constraint Mapping | ✔ | Formalized system constraints based on regulatory logic and hard-coding rules |
-| Day 105 | 03/10 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
+| Day 104 | 03/10 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
 
   </details>
 
@@ -161,7 +161,7 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 ### 🗓️ Recent Progress (Advanced Backend)
 | Day | Date | Topic | Status | Key Achievement |
 |:---:|:---:|---|:---:|---|
-| Day 105 | 03/10 | RegTech Framework | ✔ | **Built scalable AML module with Strategy-based rules** |
+| Day 104 | 03/10 | RegTech Framework | ✔ | **Built scalable AML module with Strategy-based rules** |
 | Day 103 | 03/09 | Architectural Design | ✔ | Formalized Legal-to-Code Constraint Mapping |
 | Day 100 | 03/06 | Spring AOP | ✔ | Implemented AOP-based audit logging with SLF4J |
 | Day 98 | 03/04 | Rules Engine | ✔ | Successfully integrated Drools (KIE) for GDPR rules |
