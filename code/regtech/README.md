@@ -1,10 +1,20 @@
-# RegTech Compliance Module
+# RegTech Compliance Engine
 
-## Overview
-This module demonstrates a **modular compliance engine** designed for Anti-Money Laundering (AML) scenarios. It translates legal requirements (e.g., transaction limits and restricted currencies) into technical system constraints.
+### 📌 Project Overview
+A modular compliance validation engine designed to bridge the gap between regulatory requirements and technical enforcement. This project implements a **Strategy Pattern** and **Aspect-Oriented Programming (AOP)** to automate financial compliance checks (e.g., AML, limit monitoring) with zero friction to core business logic.
 
-## Key Features
-- **Strategy Pattern**: Decoupled compliance logic into reusable `ComplianceRule` components.
-- **AOP Monitoring**: Implemented `CompliancePerformanceAspect` to track execution time of compliance checks without polluting business logic.
-- **Robust Validation**: Uses custom `ComplianceViolationException` for structured error handling.
-- **Test-Driven**: Verified with JUnit 5, including parameterized tests for edge-case scenarios.
+### 🛠 Technical Stack
+* **Core:** Java 17, Spring Boot 3.5.11
+* **Architecture:** Strategy Pattern (for Rule decoupling), AOP (for performance auditing)
+* **Build Tool:** Maven
+* **Testing:** JUnit 5 (Focusing on Regulatory Edge Cases)
+
+### ⚖️ Compliance Logic Implementation
+* **AmountRule:** Implements threshold monitoring to prevent large-sum transaction risks.
+* **CurrencyRule:** Validates restricted currencies (e.g., BTC) to ensure regional regulatory alignment.
+* **Performance Aspect:** Automated logging of compliance execution time to meet auditability standards.
+
+### 🚀 Getting Started
+1. Clean and install dependencies:
+   ```bash
+   mvn clean install
