@@ -12,7 +12,7 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 
 ---
 
-## 🛠️ Core RegTech Architecture (The "€80k" Logic)
+## 🛠️ Core RegTech Architecture
 
 ### 1. Compliance Logic Decoupling (Strategy Pattern)
 * **Problem:** Hard-coding regulatory rules leads to system fragility when laws change.
