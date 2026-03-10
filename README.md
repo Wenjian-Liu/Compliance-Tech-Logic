@@ -1,47 +1,43 @@
-# 🌟 Compliance Tech Logic & Java Learning Journey
+# 🛡️ RegTech Strategy Engine: Compliance-as-Code
 
 <p align="center"> 
-<img src="https://img.shields.io/badge/German-PGH%20%2F%20Level%208-red?style=for-the-badge&logo=germany&logoColor=white"> 
+<img src="https://img.shields.io/badge/Role-Legal%20Engineer-blue?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/Industry-Pharma%20%26%20Retail-red?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/German-C1%20Professional-gold?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/Java%20Progress-Spring%20Boot-blue?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/Focus-IT%20Compliance-gold?style=for-the-badge"> 
 </p>
 
-## 🛠️ Technical Stack (Legal-Tech Focus)
-| Layer | Tech Stack | Compliance Application |
-| :--- | :--- | :--- |
-| **Backend** | Java 17, Spring Boot 2.7+ | Automated Regulatory Logic (TIA/AML) |
-| **Persistence** | MySQL, JDBC, Druid (Planned) | Secure Audit Trail & Data Logging |
-| **Security** | PreparedStatement, Proxy Pattern | SQL Injection Prevention, Method Interception |
-| **DevOps** | Maven, Git, JUnit | Standardized Infrastructure & Reliable Testing |
+## 🚀 Vision: Bridging the Regulatory Gap
+In modern multinational corporations (MNCs), the friction between **Legal Requirements** and **Technical Implementation** is a major operational bottleneck. This project serves as a **Modular Compliance Engine** designed to translate complex statutes (GDPR, PIPL, BGB) into hard-coded systemic constraints within the Software Development Life Cycle (SDLC).
 
+---
 
-## 🚀 Why Java for Compliance?
-Bridging the gap between **Legal Regulatory requirements (PIPL/GDPR Transfer Impact Assessment Logic)** and **Systemic Automation**.
+## 🛠️ Core RegTech Architecture (The "€80k" Logic)
 
-## 🛡️ Business Case Study: Automated Financial & Data Audit
-During my tenure at **KKCN**, I managed complex cross-border compliance projects. This repository explores how Java backend logic can automate these manual tasks:
+### 1. Compliance Logic Decoupling (Strategy Pattern)
+* **Problem:** Hard-coding regulatory rules leads to system fragility when laws change.
+* **Solution:** Implemented a **Strategy-based Rule Engine**. By decoupling "Execution Logic" from "Compliance Rules," the system supports real-time adjustments of thresholds (e.g., Data Retention limits, AML trigger amounts) via configuration without recompiling the source code.
+* **Value:** Ensures **Zero-Downtime Compliance Updates** in response to sudden legislative shifts.
 
-### 1. Financial Proxy Logic (Relevant to TSCO/AML Compliance)(Simulated)
-- **Problem:** Manual audit of 200k+ RMB contracts, multi-currency payments (JPY, USD), and tax liability (Withholding Tax).
-- **Solution:** Implementing **Dynamic Proxies** to intercept transaction requests, automatically validating "Per-Capita" limits and "Tax Responsibility" flags before final OA approval.
+### 2. Dependency Injection & Scalability
+* **Mechanism:** Leveraged **Spring Boot IoC/DI** to treat legal clauses as independent, pluggable components (`@Component`).
+* **Feature:** Automatically detects and loads regional specific modules (e.g., a "PIPL-specific" checker vs. a "GDPR-specific" checker) based on the data's geographic origin.
 
-### 2. Data Privacy & Cross-border Transfer
-- **Compliance Focus:** GDPR/PIPL compliance in clinical trial contracts.
-- **Logic:** Ensuring PII (Personally Identifiable Information) masking and managing Data Export Assessments for HQ in Japan/Singapore.
+### 3. Automated Audit Trail (AOP)
+* **Logic:** Integrated **AOP (Aspect-Oriented Programming)** for non-intrusive audit logging via Method Instrumentation.
+* **Defense:** Implemented **Fail-Fast interceptors** to terminate non-compliant transactions before data persistence.
 
-## 📈 Learning Roadmap
-- [x] Java OOP Foundations
-- [x] Proxy Pattern & Reflection (Conceptual Logic for Auditing)
-- [ ] Database (SQL) for Compliance Logging
-- [ ] Spring Boot for Automated Regulatory Reporting
+---
 
-🌟 Java Learning Journey — Building Solid Backend Foundations 
-<p align="center"> <img src="https://img.shields.io/badge/Java-Progress-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/365--Day%20Challenge-In%20Progress-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/LeetCode-Started-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/GitHub-Active%20Learning-success?style=for-the-badge"> </p>
-🚀 About This Repository
+## 💼 Domain Expertise & Professional Background
 
-Bridging the gap between Legal Compliance and Backend Development. 
+| Attribute | Detail |
+| :--- | :--- |
+| **Legal Status** | **PRC Legal Professional Qualification (Category A)** |
+| **Experience** | 5+ Years in MNC Compliance (Kyowa Kirin, Decathlon) |
+| **Language** | **German (PGH-8/C1)** | English (IELTS 7.0) | Chinese (Native) |
+| **Education** | Tongji University (LL.M Candidate) \| Heidelberg University (Visiting) |
 
-Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Architecture (e.g., Automated Data Deletion via Reflection & Annotations).
 
 📊 Learning Stats
 
