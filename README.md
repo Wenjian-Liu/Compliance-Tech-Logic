@@ -45,11 +45,11 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 
 📊 Learning Stats
 
-🔥 Current Streak: Day 103/365
+🔥 Current Streak: Day 104/365
 
-📦 Total Commits: 107+
+📦 Total Commits: 117+
 
-⏳ Total Learning Time: ~77.5h
+⏳ Total Learning Time: ~78h
 
 🧭 Current Stage: Advanced Logic: Exception Handling & Enums for Automated Auditing
    - Focus: Object Contracts (equals/hashCode), Memory Management awareness, and Traversal Safety.
@@ -170,6 +170,7 @@ Special Focus: Bridging the gap between GDPR/PIPL Compliance and Java Backend Ar
 | Day 101 | 03/07 | Knowledge Consolidation & System Maintenance | ✔ | Mental recharge and technical review for the next project phase |
 | Day 102 | 03/08 | Personal Management & Environmental Optimization | ✔ | Handled administrative tasks to ensure a stable development environment |
 | Day 103 | 03/09 | Architectural Design: Legal-to-Code Constraint Mapping | ✔ | Formalized system constraints based on regulatory logic and hard-coding rules |
+| Day 105 | 03/10 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
 
 
 
