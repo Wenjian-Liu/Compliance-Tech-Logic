@@ -157,15 +157,6 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 
   </details>
 
-| Day | Date | Topic | Status | Notes |
-|:---:|:---:|---|:---:|---|
-| Day 100 | 03/06 | Spring AOP & Audit Logging: Method Instrumentation | ✔ | Implemented AOP-based audit logging with JoinPoint metadata and SLF4J |
-| Day 101 | 03/07 | Knowledge Consolidation & System Maintenance | ✔ | Mental recharge and technical review for the next project phase |
-| Day 102 | 03/08 | Personal Management & Environmental Optimization | ✔ | Handled administrative tasks to ensure a stable development environment |
-| Day 103 | 03/09 | Architectural Design: Legal-to-Code Constraint Mapping | ✔ | Formalized system constraints based on regulatory logic and hard-coding rules |
-| Day 105 | 03/10 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
-
-
 
 ### 🗓️ Recent Progress (Advanced Backend)
 | Day | Date | Topic | Status | Key Achievement |
