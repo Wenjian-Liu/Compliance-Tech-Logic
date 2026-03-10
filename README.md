@@ -43,11 +43,8 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 
 每一天都要有真实进步。这部分记录了我从法务转型法律工程师的底层技术积累。
 
-<details>
-  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 105)</b></summary>
-
-🔥 **Current Streak**: Day 105
-📦 **Total Commits**: 117+
+🔥 **Current Streak**: Day 105  
+📦 **Total Commits**: 117+  
 
 <details>
   <summary>📜 <b>View Full Learning Archive (Day 1 - Day 105)</b></summary>
@@ -158,21 +155,10 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 | Day 103 | 03/09 | Architectural Design: Legal-to-Code Constraint Mapping | ✔ | Formalized system constraints based on regulatory logic and hard-coding rules |
 | Day 105 | 03/10 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
 
-
   </details>
-   <summary>📜 <b>View Full Learning Archive (Day 1 - Day 105)</b></summary>
 
 | Day | Date | Topic | Status | Notes |
 |:---:|:---:|---|:---:|---|
-| Day 91 | 02/25 | Java 10-17 Features & Stream API Enhancements | ✔ | Applied Sealed Classes, Text Blocks, Var, and takeWhile/dropWhile |
-| Day 92 | 02/26 | Java Core: OOP Mechanisms & Polymorphism | ✔ | Mastered Method Overloading, Access Control, Type Casting, and Field Hiding |
-| Day 93 | 02/27 | SQL Fundamentals & Relational Database Logic | ✔ | Mastered DDL/DML operations and foundational query structures |
-| Day 94 | 02/28 | LeetCode SQL Practice: Data Transformation & Constraints | ✔ | Solved 8 problems including Joins, Data Cleansing, and Schema Updates |
-| Day 95 | 03/01 | SQL: Aggregation & Multi-table Relational Queries | ✔ | Mastered Group By, Joins, and Null-conditional filtering via LeetCode |
-| Day 96 | 03/02 | Unit Testing: JUnit 5 & Mockito Foundations | ✔ | Implemented data masking logic with Parameterized Tests and Mockito integration |
-| Day 97 | 03/03 | Compliance Automation: KIE-CI & Web Interceptors | ✔ | Integrated KIE-CI with HandlerInterceptor for dynamic GDPR consent validation |
-| Day 98 | 03/04 | Rules Engine: Drools Integration & Compliance Logic | ✔ | Successfully integrated Drools (KIE) to decouple GDPR business rules |
-| Day 99 | 03/05 | Compliance Engineering: AML Check Utility | ✔ | Implemented Anti-Money Laundering (AML) component with JUnit assertFalse validation |
 | Day 100 | 03/06 | Spring AOP & Audit Logging: Method Instrumentation | ✔ | Implemented AOP-based audit logging with JoinPoint metadata and SLF4J |
 | Day 101 | 03/07 | Knowledge Consolidation & System Maintenance | ✔ | Mental recharge and technical review for the next project phase |
 | Day 102 | 03/08 | Personal Management & Environmental Optimization | ✔ | Handled administrative tasks to ensure a stable development environment |
@@ -184,10 +170,18 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 ### 🗓️ Recent Progress (Advanced Backend)
 | Day | Date | Topic | Status | Key Achievement |
 |:---:|:---:|---|:---:|---|
-| Day 89 | 02/23 | Spring Boot: Compliance Strategy & Exception Architecture | ✔ | Integrated multi-region strategies with custom fail-fast exceptions |
+| Day 105 | 03/10 | RegTech Framework | ✔ | **Built scalable AML module with Strategy-based rules** |
+| Day 103 | 03/09 | Architectural Design | ✔ | Formalized Legal-to-Code Constraint Mapping |
+| Day 100 | 03/06 | Spring AOP | ✔ | Implemented AOP-based audit logging with SLF4J |
+| Day 98 | 03/04 | Rules Engine | ✔ | Successfully integrated Drools (KIE) for GDPR rules |
+| Day 89 | 02/23 | Spring Boot | ✔ | Integrated multi-region strategies & custom exceptions |
 | Day 86 | 02/20 | JDBC & Persistence | ✔ | PreparedStatement & ORM Foundations |
-| Day 85 | 02/19 | YAML & Config | ✔ | Advanced Spring Boot Configuration |
+| Day 75 | 02/09 | Dynamic Proxy | ✔ | Implemented Proxy pattern for method interception |
 
+## 📂 Project Structure & Quick Links
+* **[📁 Core RegTech Engine (Java/Spring Boot)](./code/regtech)**: The primary logic for automated auditing and regulatory rules.
+* **[📂 Java Basics Archive](./code/basics)**: Foundational exercises (BMI Calculator, OOP patterns).
+* **[📂 LeetCode Solutions](./LeetCode)**: Algorithmic problem solving.
 
 <details>
   <summary>🔍 <b>Day 81 Technical Journal: Standardization & Infrastructure</b> (Click to expand details)</summary>
@@ -253,84 +247,18 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 
 </details>
 
-
-🧩 Featured Mini Projects  
-🥗 1. Healthy BMI Calculator
-
-Initial Implementation ➜ Refactoring ➜ Encapsulation Optimization  
-
-一个完整的控制台应用，包含：
-
-输入验证
-
-BMI 计算
-
-身体类型判断
-
-目标设定
-
-BMR / TDEE 计算
-
-营养配比建议  
-Focus: procedural refactoring → method extraction → basic layering awareness  
-[📂 View Code](./code/basics/HeimaHealthy.java)
-
-🔢 2. Max of Three Numbers
-
-简单但重要的基础练习。  
-📂 code/basics/TheBiggestNumber.java
-
-🧮 3. Roman to Integer — LeetCode LC013
-
-第一道“看得懂 + 自己写对”的 LeetCode 算法题。  
-📂 LeetCode/LC013_RomanToInteger.java
-
-🎬 4. Entity Management Subsystem (CRUD Logic) — 演示如何使用 ArrayList 和分層設計管理複雜對象
-
-ArrayList storage  
-Add / remove / update / query / list  
-Simple menu loop + Scanner input  
-📂 code/collections/movie-system/  
-
-🃏 5. Dou Dizhu (斗地主) Console Demo  
-A simplified console-based Dou Dizhu game demo focusing on object-oriented design and Collections framework usage.  
-Designed Card and Room classes to separate card modeling and game flow logic  
-Built a 54-card deck (color + size + jokers) using ArrayList  
-Implemented shuffling via Collections.shuffle()  
-Dealt cards with 3 bottom cards reserved and assigned to the landlord  
-Sorted each player’s hand using Collections.sort() based on card weight  
-📂 code/collections/gamedemo/  
-Focus: OOP modeling, collection manipulation, sorting rules, and end-to-end process organization.
-
-🎯 Roadmap (2025–2027)
+## 🎯 Roadmap (2026–2027)
 
 ```mermaid
 graph TD
 A[Java-Basics]-->B[OOP-Design]
 B-->C[Collections-Streams]
 C-->D[Exception-IO]
-D-->E[MySQL-JDBC-Current]
-E-->F[Spring-Boot]
-F-->G[Compliance-Project]
+D-->E[MySQL-JDBC]
+E-->F[Spring-Boot & AOP]
+F-->G[Camunda/BPMN 2.0 Automation]
 style F fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
-Adaptive Path Note (Agile Development):
-​Current progress: Successfully implemented Core Compliance Logic via Spring Boot REST APIs prior to Database integration.
-​Reasoning: Prioritizing "Legal Intelligence" logic over data persistence to validate business requirements early in the development lifecycle.
-​Next Step: Integrate MySQL to persist contract audit trails.
-
-📌 Next Steps
-
- 深入数组 + 方法练习
-​[ ] JDBC 封裝：實現 JDBCUtils 提高開發效率。  
-​[ ] 數據庫連接池：引入 Druid 提升 LCE 高併發審計性能。  
-​[ ] Spring Boot 數據整合：將 JDBC 邏輯遷移至 Spring Boot 的 Service 層。  
-
-❤️ Why This Matters  
-In the era of digital compliance, code is the new law. Every commit here translates legal constraints into systemic certainties.
-
-👩‍💻 Author
-
-Wenjian Liu — one step a day.
-持续更新中，欢迎一起成长 💛
+​"Code is the new law. We ensure the law is executed correctly."  
+​👩‍💻 Author: Wenjian Liu — one step a day
