@@ -173,7 +173,6 @@ day105
 ## 📂 Project Structure & Quick Links
 * **[📁 Core RegTech Engine (Java/Spring Boot)](./code/regtech)**: The primary logic for automated auditing and regulatory rules.
 * **[📂 Java Basics Archive](./code/basics)**: Foundational exercises (BMI Calculator, OOP patterns).
-* **[📂 LeetCode Solutions](./LeetCode)**: Algorithmic problem solving.
 
 <details>
   <summary>🔍 <b>Day 81 Technical Journal: Standardization & Infrastructure</b> (Click to expand details)</summary>
