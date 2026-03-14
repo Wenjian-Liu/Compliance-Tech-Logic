@@ -47,7 +47,7 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 📦 **Total Commits**: 117+  
 
 <details>
-  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 105)</b></summary>
+  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 106)</b></summary>
   
 | Day | Date | Topic | Status | Notes |
 |:---:|:---:|---|:---:|---|
