@@ -157,7 +157,6 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 | Day 105 | 03/11 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
 
 
-
   </details>
 
 
