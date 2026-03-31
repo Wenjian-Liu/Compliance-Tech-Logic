@@ -51,6 +51,9 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 
 <details>
   <summary>📜 <b>View Full Learning Archive (Day 81 - Present)</b></summary>
+  
+| Day | Date | Topic | Status | Notes |
+|:---:|:---:|---|:---:|---|
 | Day81 | 02/15 | Maven Standardization & Git Workflow | ✔ | Migrated to standard project structure; Refined Maven/Git configurations |
 | Day 82 | 02/16 | Lunar New Year's Eve | 🏮 | System Idle for CNY; Scheduled Maintenance & Family Reunion |
 | Day 83 | 02/17 | Spring Boot Logic & Configuration | ✔ | Implemented Legal Logic APIs; Mastered properties vs. YAML configuration |
@@ -80,9 +83,9 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 | Day 107 | 03/26 | Data Serialization: JSON Fundamentals & Integration | ✔ | Mastered JSON structure for regulatory data exchange and API payloads |  
 | Day 108 | 03/29 | API Layer: DTO Pattern & Request Validation | ✔ | Implemented Controller with Data Transfer Objects (DTOs) and standardized Junit test naming |
 | Day 109 | 03/31 | Architecture: Blue Card Eligibility Workflow Modeling | ✔ | Translated complex legal stats (e.g., salary thresholds, degree specs) into a verifiable process map; implemented Validator logic. |
+
   </details>
 
-  
 <details>
   <summary>📂 <b>Phase 1: Engineering Foundation & Java Core (Day 1 - 80)</b></summary>
 
@@ -94,8 +97,8 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 * **Data Persistence**: JDBC hardening, PreparedStatement security, and ORM foundations.
 * **Algorithmic Logic**: Solved 20+ LeetCode problems (SQL & Logic) to sharpen critical thinking.
 
-<details>
-  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 80)</b></summary>
+  <details>
+    <summary>📜 <b>View Full Learning Archive (Day 1 - Day 80)</b></summary>
   
 | Day | Date | Topic | Status | Notes |
 |:---:|:---:|---|:---:|---|
@@ -180,6 +183,7 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 | Day80 | 02/14 | Spring Boot & Maven Environment | ✔ | Rescued C drive; Fixed Maven NUL bug; First Hello World API running |
   
 </details>
+  </details>
 
 
 ## 📂 Project Structure & Quick Links
