@@ -6,5 +6,5 @@ To bridge the gap between abstract legal requirements and systemic constraints, 
 
 > **Note**: This diagram serves as the blueprint for the `BgbValidator.java` implementation.
 
-### 2. PIPL Data Privacy Logic
+### 2. Data Privacy Logic
 This module handles the technical enforcement of the **Personal Information Protection Law (PIPL)** & **GDPR**, ensuring data processing meets regional compliance standards.
