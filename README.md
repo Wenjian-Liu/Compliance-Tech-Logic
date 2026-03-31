@@ -19,35 +19,83 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 * **Solution:** Implemented a **Strategy-based Rule Engine**. By decoupling "Execution Logic" from "Compliance Rules," the system supports real-time adjustments of thresholds (e.g., Data Retention limits, AML trigger amounts) via configuration without recompiling the source code.
 * **Value:** Ensures **Zero-Downtime Compliance Updates** in response to sudden legislative shifts.
 
-### 2. Dependency Injection & Scalability
-* **Mechanism:** Leveraged **Spring Boot IoC/DI** to treat legal clauses as independent, pluggable components (`@Component`).
-* **Feature:** Automatically detects and loads regional specific modules (e.g., a "PIPL-specific" checker vs. a "GDPR-specific" checker) based on the data's geographic origin.
-
-### 3. Automated Audit Trail (AOP)
-* **Logic:** Integrated **AOP (Aspect-Oriented Programming)** for non-intrusive audit logging via Method Instrumentation.
+### 2. Automated Audit Trail & Performance Monitoring (AOP)
+* **Logic:** Integrated **AOP (Aspect-Oriented Programming)** for non-intrusive audit logging.
 * **Defense:** Implemented **Fail-Fast interceptors** to terminate non-compliant transactions before data persistence.
+* **Observability:** Integrated method execution timing to ensure compliance checks do not compromise system latency.
+
+### 3. API-First Design (RESTful & Validation)
+* **Standardization:** Uses **DTO (Data Transfer Object)** pattern to maintain strict boundaries between external inputs and internal domain models.
+* **Integrity:** Leverages `jakarta.validation` for robust request body sanitization at the Controller level.
 
 ---
 
-## 💼 Domain Expertise & Professional Background
+## 📈 Technical Evolution & Milestones
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Legal Status** | **PRC Legal Professional Qualification (Category A)** |
-| **Experience** | 5+ Years in MNC Compliance (Kyowa Kirin, Decathlon) |
-| **Language** | **German (PGH-8/C1)** | English (IELTS 7.0) | Chinese (Native) |
-| **Education** | Tongji University (LL.M Candidate) \| Heidelberg University (Visiting) |
-
-
-## 📈 Java & Compliance Journey (Log)
-
-每一天都要有真实进步。这部分记录了我从法务转型法律工程师的底层技术积累。
+> "Precision in engineering, consistency in evolution."
 
 🔥 **Current Streak**: Day 109 
 📦 **Total Commits**: 123+  
 
+### 🏗️ Phase 2: Enterprise Framework & RegTech Implementation (Day 81 - Present)
+*Focus: Spring Boot Ecosystem, AOP Instrumentation, Rule Decoupling, and API Architecture.*
+
+| Day | Date | Milestone | Status | Technical Key Achievement |
+|:---:|:---:|---|:---:|---|
+| 108 | 03/29 | **API Layer & DTO** | ✔ | Implemented DTO pattern & Standardized JUnit test naming |
+| 107 | 03/26 | **Data Serialization** | ✔ | Mastered JSON payloads for regulatory data exchange |
+| 106 | 03/23 | **Privacy Architecture** | ✔ | Explored PETs (HE & Federated Learning) for PETs alignment |
+| 100 | 03/06 | **Audit Instrumentation** | ✔ | Built AOP-based non-intrusive logging with SLF4J |
+| 89  | 02/23 | **Compliance Strategy** | ✔ | Multi-region strategy switching (@ConditionalOnProperty) |
+| 81  | 02/15 | **Infrastructure** | ✔ | Migrated to Maven Standard Project Hierarchy |
+
 <details>
-  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 106)</b></summary>
+  <summary>📜 <b>View Full Learning Archive (Day 81 - Present)</b></summary>
+| Day81 | 02/15 | Maven Standardization & Git Workflow | ✔ | Migrated to standard project structure; Refined Maven/Git configurations |
+| Day 82 | 02/16 | Lunar New Year's Eve | 🏮 | System Idle for CNY; Scheduled Maintenance & Family Reunion |
+| Day 83 | 02/17 | Spring Boot Logic & Configuration | ✔ | Implemented Legal Logic APIs; Mastered properties vs. YAML configuration |
+| Day 84 | 02/18 | Scheduled Downtime | ✔ | System idle for recovery; Pre-configured for properties/yaml deep dive |
+| Day 85 | 02/19 | YAML Syntax & Configuration Retrieval | ✔ | Mastered YAML list/array structures and @Value/@ConfigurationProperties |
+| Day 86 | 02/20 | JDBC & Database Persistence | ✔ | Mastered JDBC 7-step workflow, PreparedStatement, and Result-to-Object mapping, Finalized 'src' hierarchy for persistence layer; Established project-wide coding standards |
+| Day 87 | 02/21 | Spring Boot Integration: MyBatis & Bean Lifecycle | ✔ | Integrated MyBatis; Mastered @Mapper & Component Scanning |
+| Day 88 | 02/22 | Spring Boot: Configuration & Conditional Injection | ✔ | Mastered @Configuration, @Bean, @Import & Advanced Conditionals (@OnProperty, @OnClass, @OnMissingBean) |
+| Day 89 | 02/23 | Spring Boot: Compliance Strategy & Exception Architecture | ✔ | Integrated multi-region strategies with custom fail-fast exceptions |
+| Day 90 | 02/24 | Professional Profile Optimization | ✔ | Refined IT Resume |
+| Day 91 | 02/25 | Java 10-17 Features & Stream API Enhancements | ✔ | Applied Sealed Classes, Text Blocks, Var, and takeWhile/dropWhile |
+| Day 92 | 02/26 | Java Core: OOP Mechanisms & Polymorphism | ✔ | Mastered Method Overloading, Access Control, Type Casting, and Field Hiding |
+| Day 93 | 02/27 | SQL Fundamentals & Relational Database Logic | ✔ | Mastered DDL/DML operations and foundational query structures |
+| Day 94 | 02/28 | LeetCode SQL Practice: Data Transformation & Constraints | ✔ | Solved 8 problems including Joins, Data Cleansing, and Schema Updates |
+| Day 95 | 03/01 | SQL: Aggregation & Multi-table Relational Queries | ✔ | Mastered Group By, Joins, and Null-conditional filtering via LeetCode |
+| Day 96 | 03/02 | Unit Testing: JUnit 5 & Mockito Foundations | ✔ | Implemented data masking logic with Parameterized Tests and Mockito integration |
+| Day 97 | 03/03 | Compliance Automation: KIE-CI & Web Interceptors | ✔ | Integrated KIE-CI with HandlerInterceptor for dynamic GDPR consent validation |
+| Day 98 | 03/04 | Rules Engine: Drools Integration & Compliance Logic | ✔ | Successfully integrated Drools (KIE) to decouple GDPR business rules |
+| Day 99 | 03/05 | Compliance Engineering: AML Check Utility | ✔ | Implemented Anti-Money Laundering (AML) component with JUnit assertFalse validation |
+| Day 100 | 03/06 | Spring AOP & Audit Logging: Method Instrumentation | ✔ | Implemented AOP-based audit logging with JoinPoint metadata and SLF4J |
+| Day 101 | 03/07 | Knowledge Consolidation & System Maintenance | ✔ | Mental recharge and technical review for the next project phase |
+| Day 102 | 03/08 | Personal Management & Environmental Optimization | ✔ | Handled administrative tasks to ensure a stable development environment |
+| Day 103 | 03/09 | Architectural Design: Legal-to-Code Constraint Mapping | ✔ | Formalized system constraints based on regulatory logic and hard-coding rules |
+| Day 104 | 03/10 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
+| Day 105 | 03/11 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
+| Day 106 | 03/23 | Architecture: Balancing Efficiency & Compliance via PETs | ✔ | Explored Privacy-Preserving Techniques (HE & Federated Learning) for regulatory alignment |
+| Day 107 | 03/26 | Data Serialization: JSON Fundamentals & Integration | ✔ | Mastered JSON structure for regulatory data exchange and API payloads |  
+| Day 108 | 03/29 | API Layer: DTO Pattern & Request Validation | ✔ | Implemented Controller with Data Transfer Objects (DTOs) and standardized Junit test naming |
+| Day 109 | 03/31 | Architecture: Blue Card Eligibility Workflow Modeling | ✔ | Translated complex legal stats (e.g., salary thresholds, degree specs) into a verifiable process map; implemented Validator logic. |
+  </details>
+
+  
+<details>
+  <summary>📂 <b>Phase 1: Engineering Foundation & Java Core (Day 1 - 80)</b></summary>
+
+*This section documents the foundational journey of building the technical bedrock required for complex Legal-Tech systems.*
+
+* **OOP Excellence**: Deep dive into Inheritance, Polymorphism, and Encapsulation.
+* **Data Structures**: Mastery of Collections API (List/Set/Map) and Stream-based processing.
+* **Advanced Mechanics**: Implementation of Reflection for Audit utilities and Dynamic Proxies for method interception.
+* **Data Persistence**: JDBC hardening, PreparedStatement security, and ORM foundations.
+* **Algorithmic Logic**: Solved 20+ LeetCode problems (SQL & Logic) to sharpen critical thinking.
+
+<details>
+  <summary>📜 <b>View Full Learning Archive (Day 1 - Day 80)</b></summary>
   
 | Day | Date | Topic | Status | Notes |
 |:---:|:---:|---|:---:|---|
@@ -130,50 +178,9 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 | Day78 | 02/12 | Intro to Spring Boot | ✔ | Overview of Spring Boot; understood its role as a "productivity multiplier" |
 | Day79 | 02/13 | Java Break | ✔ | Java on pause for recovery |
 | Day80 | 02/14 | Spring Boot & Maven Environment | ✔ | Rescued C drive; Fixed Maven NUL bug; First Hello World API running |
-| Day81 | 02/15 | Maven Standardization & Git Workflow | ✔ | Migrated to standard project structure; Refined Maven/Git configurations |
-| Day 82 | 02/16 | Lunar New Year's Eve | 🏮 | System Idle for CNY; Scheduled Maintenance & Family Reunion |
-| Day 83 | 02/17 | Spring Boot Logic & Configuration | ✔ | Implemented Legal Logic APIs; Mastered properties vs. YAML configuration |
-| Day 84 | 02/18 | Scheduled Downtime | ✔ | System idle for recovery; Pre-configured for properties/yaml deep dive |
-| Day 85 | 02/19 | YAML Syntax & Configuration Retrieval | ✔ | Mastered YAML list/array structures and @Value/@ConfigurationProperties |
-| Day 86 | 02/20 | JDBC & Database Persistence | ✔ | Mastered JDBC 7-step workflow, PreparedStatement, and Result-to-Object mapping, Finalized 'src' hierarchy for persistence layer; Established project-wide coding standards |
-| Day 87 | 02/21 | Spring Boot Integration: MyBatis & Bean Lifecycle | ✔ | Integrated MyBatis; Mastered @Mapper & Component Scanning |
-| Day 88 | 02/22 | Spring Boot: Configuration & Conditional Injection | ✔ | Mastered @Configuration, @Bean, @Import & Advanced Conditionals (@OnProperty, @OnClass, @OnMissingBean) |
-| Day 89 | 02/23 | Spring Boot: Compliance Strategy & Exception Architecture | ✔ | Integrated multi-region strategies with custom fail-fast exceptions |
-| Day 90 | 02/24 | Professional Profile Optimization | ✔ | Refined IT Resume |
-| Day 91 | 02/25 | Java 10-17 Features & Stream API Enhancements | ✔ | Applied Sealed Classes, Text Blocks, Var, and takeWhile/dropWhile |
-| Day 92 | 02/26 | Java Core: OOP Mechanisms & Polymorphism | ✔ | Mastered Method Overloading, Access Control, Type Casting, and Field Hiding |
-| Day 93 | 02/27 | SQL Fundamentals & Relational Database Logic | ✔ | Mastered DDL/DML operations and foundational query structures |
-| Day 94 | 02/28 | LeetCode SQL Practice: Data Transformation & Constraints | ✔ | Solved 8 problems including Joins, Data Cleansing, and Schema Updates |
-| Day 95 | 03/01 | SQL: Aggregation & Multi-table Relational Queries | ✔ | Mastered Group By, Joins, and Null-conditional filtering via LeetCode |
-| Day 96 | 03/02 | Unit Testing: JUnit 5 & Mockito Foundations | ✔ | Implemented data masking logic with Parameterized Tests and Mockito integration |
-| Day 97 | 03/03 | Compliance Automation: KIE-CI & Web Interceptors | ✔ | Integrated KIE-CI with HandlerInterceptor for dynamic GDPR consent validation |
-| Day 98 | 03/04 | Rules Engine: Drools Integration & Compliance Logic | ✔ | Successfully integrated Drools (KIE) to decouple GDPR business rules |
-| Day 99 | 03/05 | Compliance Engineering: AML Check Utility | ✔ | Implemented Anti-Money Laundering (AML) component with JUnit assertFalse validation |
-| Day 100 | 03/06 | Spring AOP & Audit Logging: Method Instrumentation | ✔ | Implemented AOP-based audit logging with JoinPoint metadata and SLF4J |
-| Day 101 | 03/07 | Knowledge Consolidation & System Maintenance | ✔ | Mental recharge and technical review for the next project phase |
-| Day 102 | 03/08 | Personal Management & Environmental Optimization | ✔ | Handled administrative tasks to ensure a stable development environment |
-| Day 103 | 03/09 | Architectural Design: Legal-to-Code Constraint Mapping | ✔ | Formalized system constraints based on regulatory logic and hard-coding rules |
-| Day 104 | 03/10 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
-| Day 105 | 03/11 | RegTech Framework: Modular AML Engine & AOP Instrumentation | ✔ | Built scalable AML module with Strategy-based rules and performance tracking |
-| Day 106 | 03/23 | Architecture: Balancing Efficiency & Compliance via PETs | ✔ | Explored Privacy-Preserving Techniques (HE & Federated Learning) for regulatory alignment |
-| Day 107 | 03/26 | Data Serialization: JSON Fundamentals & Integration | ✔ | Mastered JSON structure for regulatory data exchange and API payloads |  
-| Day 108 | 03/29 | API Layer: DTO Pattern & Request Validation | ✔ | Implemented Controller with Data Transfer Objects (DTOs) and standardized Junit test naming |
-| Day 109 | 03/31 | Architecture: Blue Card Eligibility Workflow Modeling | ✔ | Translated complex legal stats (e.g., salary thresholds, degree specs) into a verifiable process map; implemented Validator logic. |
+  
+</details>
 
-
-  </details>
-
-
-### 🗓️ Recent Progress (Advanced Backend)
-| Day | Date | Topic | Status | Key Achievement |
-|:---:|:---:|---|:---:|---|
-| Day 104 | 03/10 | RegTech Framework | ✔ | **Built scalable AML module with Strategy-based rules** |
-| Day 103 | 03/09 | Architectural Design | ✔ | Formalized Legal-to-Code Constraint Mapping |
-| Day 100 | 03/06 | Spring AOP | ✔ | Implemented AOP-based audit logging with SLF4J |
-| Day 98 | 03/04 | Rules Engine | ✔ | Successfully integrated Drools (KIE) for GDPR rules |
-| Day 89 | 02/23 | Spring Boot | ✔ | Integrated multi-region strategies & custom exceptions |
-| Day 86 | 02/20 | JDBC & Persistence | ✔ | PreparedStatement & ORM Foundations |
-| Day 75 | 02/09 | Dynamic Proxy | ✔ | Implemented Proxy pattern for method interception |
 
 ## 📂 Project Structure & Quick Links
 * **[📁 Core RegTech Engine (Java/Spring Boot)](./code/regtech)**: The primary logic for automated auditing and regulatory rules.
@@ -255,6 +262,15 @@ E-->F[Spring-Boot & AOP]
 F-->G[Camunda/BPMN 2.0 Automation]
 style F fill:#f9f,stroke:#333,stroke-width:4px
 ```
+
+## 💼 Domain Expertise & Professional Background
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Legal Status** | **PRC Legal Professional Qualification (Category A)** |
+| **Experience** | 5+ Years in MNC Compliance (Kyowa Kirin, Decathlon) |
+| **Language** | **German (PGH-8/C1)** | English (IELTS 7.0) | Chinese (Native) |
+| **Education** | Tongji University (LL.M Candidate) \| Heidelberg University (Visiting) |
 
 ​"Code is the new law. We ensure the law is executed correctly."  
 ​👩‍💻 Author: Wenjian Liu — one step a day
