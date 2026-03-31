@@ -97,7 +97,7 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 * **Data Persistence**: JDBC hardening, PreparedStatement security, and ORM foundations.
 * **Algorithmic Logic**: Solved 20+ LeetCode problems (SQL & Logic) to sharpen critical thinking.
 
-  <details>
+<details>
     <summary>📜 <b>View Full Learning Archive (Day 1 - Day 80)</b></summary>
   
 | Day | Date | Topic | Status | Notes |
@@ -182,7 +182,7 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 | Day79 | 02/13 | Java Break | ✔ | Java on pause for recovery |
 | Day80 | 02/14 | Spring Boot & Maven Environment | ✔ | Rescued C drive; Fixed Maven NUL bug; First Hello World API running |
   
-</details>
+  </details>
   </details>
 
 
