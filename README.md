@@ -8,7 +8,7 @@
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/Java-Spring%20Boot-007396?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ## 🚀 Vision: Bridging the Regulatory Gap
