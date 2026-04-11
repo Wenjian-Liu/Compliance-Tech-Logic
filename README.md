@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Industry-Pharma%20%26%20Retail-red?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/German-C1%20Professional-gold?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/Java%20Progress-Spring%20Boot-blue?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-Automation-green?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ## 🚀 Vision: Bridging the Regulatory Gap
@@ -27,6 +28,10 @@ In modern multinational corporations (MNCs), the friction between **Legal Requir
 ### 3. API-First Design (RESTful & Validation)
 * **Standardization:** Uses **DTO (Data Transfer Object)** pattern to maintain strict boundaries between external inputs and internal domain models.
 * **Integrity:** Leverages `jakarta.validation` for robust request body sanitization at the Controller level.
+
+### 4. Cross-Language Prototyping (Java + Python)  
+* **Java:** Core Compliance Engine, persistence, and enterprise-grade API.  
+* **Python:** Used for rapid regulatory data parsing, legal document scraping, and lightweight automation scripts to feed the core Java engine.  
 
 ---
 
@@ -266,8 +271,10 @@ B-->C[Collections-Streams]
 C-->D[Exception-IO]
 D-->E[MySQL-JDBC]
 E-->F[Spring-Boot & AOP]
-F-->G[Camunda/BPMN 2.0 Automation]
-style F fill:#f9f,stroke:#333,stroke-width:4px
+F-->G[Python: Automation & Data]
+G-->H[Hybrid RegTech System]
+style F fill:#f9f,stroke:#333,stroke-width:2px
+style G fill:#bbf,stroke:#333,stroke-width:4px
 ```
 
 ## 💼 Domain Expertise & Professional Background
