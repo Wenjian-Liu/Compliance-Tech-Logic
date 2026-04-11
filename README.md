@@ -4,8 +4,11 @@
 <img src="https://img.shields.io/badge/Role-Legal%20Engineer-blue?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/Industry-Pharma%20%26%20Retail-red?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/German-C1%20Professional-gold?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/Java%20Progress-Spring%20Boot-blue?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-Automation-green?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ## 🚀 Vision: Bridging the Regulatory Gap
